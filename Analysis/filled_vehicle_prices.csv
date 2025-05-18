@@ -1,0 +1,1444 @@
+Brand,Model,Transmission,Fuel type,Year of Manufacture,median_price,count,min_year,max_year
+Daihatsu,Mira,Automatic,Petrol,2006,4495000.0,1.0,2006.0,2025.0
+Daihatsu,Mira,Automatic,Petrol,2007,4627777.777777778,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2008,4760555.555555556,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2009,4893333.333333333,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2010,5026111.111111111,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2011,5158888.888888889,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2012,5291666.666666667,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2013,5424444.444444444,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2014,5557222.222222222,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2015,5690000.0,3.0,2006.0,2025.0
+Daihatsu,Mira,Automatic,Petrol,2016,5450000.0,3.0,2006.0,2025.0
+Daihatsu,Mira,Automatic,Petrol,2017,5950000.0,3.0,2006.0,2025.0
+Daihatsu,Mira,Automatic,Petrol,2018,6116666.666666667,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2019,6283333.333333333,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2020,6450000.0,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2021,6616666.666666667,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2022,6783333.333333333,0.0,,
+Daihatsu,Mira,Automatic,Petrol,2023,6950000.0,23.0,2006.0,2025.0
+Daihatsu,Mira,Automatic,Petrol,2024,7320000.0,8.0,2006.0,2025.0
+Daihatsu,Mira,Automatic,Petrol,2025,7975000.0,2.0,2006.0,2025.0
+Daihatsu,Other Model,Automatic,Petrol,2023,8900000.0,3.0,2023.0,2025.0
+Daihatsu,Other Model,Automatic,Petrol,2024,9450000.0,17.0,2023.0,2025.0
+Daihatsu,Other Model,Automatic,Petrol,2025,10345000.0,2.0,2023.0,2025.0
+Honda,Vezel,Tiptronic,Hybrid,2018,14500000.0,1.0,2018.0,2025.0
+Honda,Vezel,Tiptronic,Hybrid,2019,16190000.0,0.0,,
+Honda,Vezel,Tiptronic,Hybrid,2020,17880000.0,0.0,,
+Honda,Vezel,Tiptronic,Hybrid,2021,19570000.0,0.0,,
+Honda,Vezel,Tiptronic,Hybrid,2022,21260000.0,0.0,,
+Honda,Vezel,Tiptronic,Hybrid,2023,22950000.0,5.0,2018.0,2025.0
+Honda,Vezel,Tiptronic,Hybrid,2024,23150000.0,6.0,2018.0,2025.0
+Honda,Vezel,Tiptronic,Hybrid,2025,21000000.0,2.0,2018.0,2025.0
+Hyundai,Accent,Automatic,Petrol,2001,2450000.0,3.0,2001.0,2001.0
+Hyundai,Accent,Manual,Petrol,2000,2400000.0,1.0,2000.0,2006.0
+Hyundai,Accent,Manual,Petrol,2001,2400000.0,5.0,2000.0,2006.0
+Hyundai,Accent,Manual,Petrol,2002,2331000.0,0.0,,
+Hyundai,Accent,Manual,Petrol,2003,2262000.0,0.0,,
+Hyundai,Accent,Manual,Petrol,2004,2193000.0,0.0,,
+Hyundai,Accent,Manual,Petrol,2005,2124000.0,0.0,,
+Hyundai,Accent,Manual,Petrol,2006,2055000.0,2.0,2000.0,2006.0
+Hyundai,Grand i10,Automatic,Petrol,2016,5625000.0,1.0,2016.0,2024.0
+Hyundai,Grand i10,Automatic,Petrol,2017,6025000.0,2.0,2016.0,2024.0
+Hyundai,Grand i10,Automatic,Petrol,2018,6500000.0,1.0,2016.0,2024.0
+Hyundai,Grand i10,Automatic,Petrol,2019,6800000.0,0.0,,
+Hyundai,Grand i10,Automatic,Petrol,2020,7100000.0,0.0,,
+Hyundai,Grand i10,Automatic,Petrol,2021,7400000.0,0.0,,
+Hyundai,Grand i10,Automatic,Petrol,2022,7700000.0,0.0,,
+Hyundai,Grand i10,Automatic,Petrol,2023,8000000.0,1.0,2016.0,2024.0
+Hyundai,Grand i10,Automatic,Petrol,2024,9439999.0,7.0,2016.0,2024.0
+Hyundai,Grand i10,Tiptronic,Petrol,2016,6550000.0,1.0,2016.0,2025.0
+Hyundai,Grand i10,Tiptronic,Petrol,2017,6200000.0,1.0,2016.0,2025.0
+Hyundai,Grand i10,Tiptronic,Petrol,2018,6662857.142857143,0.0,,
+Hyundai,Grand i10,Tiptronic,Petrol,2019,7125714.285714285,0.0,,
+Hyundai,Grand i10,Tiptronic,Petrol,2020,7588571.428571429,0.0,,
+Hyundai,Grand i10,Tiptronic,Petrol,2021,8051428.571428571,0.0,,
+Hyundai,Grand i10,Tiptronic,Petrol,2022,8514285.714285715,0.0,,
+Hyundai,Grand i10,Tiptronic,Petrol,2023,8977142.857142858,0.0,,
+Hyundai,Grand i10,Tiptronic,Petrol,2024,9440000.0,5.0,2016.0,2025.0
+Hyundai,Grand i10,Tiptronic,Petrol,2025,9440000.0,5.0,2016.0,2025.0
+Hyundai,Other Model,Automatic,Petrol,2000,2200000.0,1.0,2000.0,2017.0
+Hyundai,Other Model,Automatic,Petrol,2001,2495000.0,1.0,2000.0,2017.0
+Hyundai,Other Model,Automatic,Petrol,2002,3026562.5,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2003,3558125.0,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2004,4089687.5,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2005,4621250.0,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2006,5152812.5,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2007,5684375.0,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2008,6215937.5,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2009,6747500.0,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2010,7279062.5,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2011,7810625.0,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2012,8342187.5,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2013,8873750.0,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2014,9405312.5,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2015,9936875.0,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2016,10468437.5,0.0,,
+Hyundai,Other Model,Automatic,Petrol,2017,11000000.0,1.0,2000.0,2017.0
+Hyundai,Other Model,Manual,Petrol,2003,2175000.0,1.0,2003.0,2003.0
+Hyundai,Santa Fe,Automatic,Diesel,2014,15125000.0,2.0,2014.0,2014.0
+Hyundai,Santa Fe,Automatic,Hybrid,2025,35500000.0,1.0,2025.0,2025.0
+Hyundai,Santa Fe,Automatic,Petrol,2004,3950000.0,1.0,2004.0,2004.0
+Hyundai,Santa Fe,Manual,Petrol,2007,7500000.0,1.0,2007.0,2007.0
+Hyundai,Santa Fe,Tiptronic,Diesel,2008,7250000.0,1.0,2008.0,2008.0
+Hyundai,Santa Fe,Tiptronic,Hybrid,2025,35500000.0,11.0,2025.0,2025.0
+Hyundai,Santa Fe,Tiptronic,Petrol,2025,35500000.0,2.0,2025.0,2025.0
+Kia,Other Model,Manual,Petrol,2000,1275000.0,1.0,2000.0,2000.0
+Kia,Sorento,Automatic,Diesel,2008,6700000.0,1.0,2008.0,2018.0
+Kia,Sorento,Automatic,Diesel,2009,8758333.333333334,0.0,,
+Kia,Sorento,Automatic,Diesel,2010,10816666.666666666,0.0,,
+Kia,Sorento,Automatic,Diesel,2011,12875000.0,4.0,2008.0,2018.0
+Kia,Sorento,Automatic,Diesel,2012,14000000.0,2.0,2008.0,2018.0
+Kia,Sorento,Automatic,Diesel,2013,17500000.0,1.0,2008.0,2018.0
+Kia,Sorento,Automatic,Diesel,2014,16000000.0,1.0,2008.0,2018.0
+Kia,Sorento,Automatic,Diesel,2015,24900000.0,4.0,2008.0,2018.0
+Kia,Sorento,Automatic,Diesel,2016,27600000.0,0.0,,
+Kia,Sorento,Automatic,Diesel,2017,30300000.0,0.0,,
+Kia,Sorento,Automatic,Diesel,2018,33000000.0,1.0,2008.0,2018.0
+Kia,Sorento,Automatic,Petrol,2011,12000000.0,3.0,2011.0,2011.0
+Kia,Sorento,Tiptronic,Diesel,2012,13500000.0,1.0,2012.0,2017.0
+Kia,Sorento,Tiptronic,Diesel,2013,17500000.0,1.0,2012.0,2017.0
+Kia,Sorento,Tiptronic,Diesel,2014,17200000.0,3.0,2012.0,2017.0
+Kia,Sorento,Tiptronic,Diesel,2015,23350000.0,0.0,,
+Kia,Sorento,Tiptronic,Diesel,2016,29500000.0,1.0,2012.0,2017.0
+Kia,Sorento,Tiptronic,Diesel,2017,30000000.0,1.0,2012.0,2017.0
+Kia,Sportage,Automatic,Diesel,2007,6750000.0,1.0,2007.0,2015.0
+Kia,Sportage,Automatic,Diesel,2008,7750000.0,0.0,,
+Kia,Sportage,Automatic,Diesel,2009,8750000.0,0.0,,
+Kia,Sportage,Automatic,Diesel,2010,9750000.0,0.0,,
+Kia,Sportage,Automatic,Diesel,2011,10750000.0,0.0,,
+Kia,Sportage,Automatic,Diesel,2012,11750000.0,1.0,2007.0,2015.0
+Kia,Sportage,Automatic,Diesel,2013,11866666.666666666,0.0,,
+Kia,Sportage,Automatic,Diesel,2014,11983333.333333334,0.0,,
+Kia,Sportage,Automatic,Diesel,2015,12100000.0,2.0,2007.0,2015.0
+Kia,Sportage,Automatic,Petrol,2000,2950000.0,1.0,2000.0,2016.0
+Kia,Sportage,Automatic,Petrol,2001,3617272.7272727275,0.0,,
+Kia,Sportage,Automatic,Petrol,2002,4284545.454545455,0.0,,
+Kia,Sportage,Automatic,Petrol,2003,4951818.181818182,0.0,,
+Kia,Sportage,Automatic,Petrol,2004,5619090.909090909,0.0,,
+Kia,Sportage,Automatic,Petrol,2005,6286363.636363637,0.0,,
+Kia,Sportage,Automatic,Petrol,2006,6953636.363636363,0.0,,
+Kia,Sportage,Automatic,Petrol,2007,7620909.090909091,0.0,,
+Kia,Sportage,Automatic,Petrol,2008,8288181.818181818,0.0,,
+Kia,Sportage,Automatic,Petrol,2009,8955454.545454547,0.0,,
+Kia,Sportage,Automatic,Petrol,2010,9622727.272727273,0.0,,
+Kia,Sportage,Automatic,Petrol,2011,10290000.0,12.0,2000.0,2016.0
+Kia,Sportage,Automatic,Petrol,2012,10000000.0,1.0,2000.0,2016.0
+Kia,Sportage,Automatic,Petrol,2013,11225000.0,0.0,,
+Kia,Sportage,Automatic,Petrol,2014,12450000.0,0.0,,
+Kia,Sportage,Automatic,Petrol,2015,13675000.0,0.0,,
+Kia,Sportage,Automatic,Petrol,2016,14900000.0,1.0,2000.0,2016.0
+Kia,Sportage,Manual,Petrol,2011,9000000.0,1.0,2011.0,2011.0
+Kia,Sportage,Tiptronic,Petrol,2011,10500000.0,1.0,2011.0,2011.0
+Mahindra,KUV 100,Automatic,Diesel,2024,6495000.0,6.0,2024.0,2025.0
+Mahindra,KUV 100,Automatic,Diesel,2025,6495000.0,62.0,2024.0,2025.0
+Mahindra,KUV 100,Manual,Petrol,2020,5250000.0,1.0,2020.0,2022.0
+Mahindra,KUV 100,Manual,Petrol,2021,5747500.0,2.0,2020.0,2022.0
+Mahindra,KUV 100,Manual,Petrol,2022,6275000.0,3.0,2020.0,2022.0
+Mazda,Other Model,Manual,Petrol,1995,1446000.0,1.0,1995.0,2007.0
+Mazda,Other Model,Manual,Petrol,1996,1815083.3333333333,0.0,,
+Mazda,Other Model,Manual,Petrol,1997,2184166.6666666665,0.0,,
+Mazda,Other Model,Manual,Petrol,1998,2553250.0,0.0,,
+Mazda,Other Model,Manual,Petrol,1999,2922333.333333333,0.0,,
+Mazda,Other Model,Manual,Petrol,2000,3291416.6666666665,0.0,,
+Mazda,Other Model,Manual,Petrol,2001,3660500.0,0.0,,
+Mazda,Other Model,Manual,Petrol,2002,4029583.333333333,0.0,,
+Mazda,Other Model,Manual,Petrol,2003,4398666.666666666,0.0,,
+Mazda,Other Model,Manual,Petrol,2004,4767750.0,0.0,,
+Mazda,Other Model,Manual,Petrol,2005,5136833.333333333,0.0,,
+Mazda,Other Model,Manual,Petrol,2006,5505916.666666666,0.0,,
+Mazda,Other Model,Manual,Petrol,2007,5875000.0,1.0,1995.0,2007.0
+Mazda,Other Model,Tiptronic,Petrol,2009,7200000.0,1.0,2009.0,2009.0
+Micro,Other Model,Automatic,Petrol,2023,18400000.0,3.0,2023.0,2023.0
+Micro,Other Model,Manual,Petrol,2008,1600000.0,1.0,2008.0,2011.0
+Micro,Other Model,Manual,Petrol,2009,1683333.3333333333,0.0,,
+Micro,Other Model,Manual,Petrol,2010,1766666.6666666667,0.0,,
+Micro,Other Model,Manual,Petrol,2011,1850000.0,1.0,2008.0,2011.0
+Micro,Panda,Manual,Petrol,2011,2175000.0,4.0,2011.0,2017.0
+Micro,Panda,Manual,Petrol,2012,2477500.0,2.0,2011.0,2017.0
+Micro,Panda,Manual,Petrol,2013,2707500.0,2.0,2011.0,2017.0
+Micro,Panda,Manual,Petrol,2014,2847500.0,2.0,2011.0,2017.0
+Micro,Panda,Manual,Petrol,2015,2895000.0,11.0,2011.0,2017.0
+Micro,Panda,Manual,Petrol,2016,2900000.0,3.0,2011.0,2017.0
+Micro,Panda,Manual,Petrol,2017,3190000.0,1.0,2011.0,2017.0
+Micro,Rexton,Automatic,Diesel,2008,7700000.0,4.0,2008.0,2016.0
+Micro,Rexton,Automatic,Diesel,2009,8575000.0,0.0,,
+Micro,Rexton,Automatic,Diesel,2010,9450000.0,0.0,,
+Micro,Rexton,Automatic,Diesel,2011,10325000.0,0.0,,
+Micro,Rexton,Automatic,Diesel,2012,11200000.0,0.0,,
+Micro,Rexton,Automatic,Diesel,2013,12075000.0,0.0,,
+Micro,Rexton,Automatic,Diesel,2014,12950000.0,0.0,,
+Micro,Rexton,Automatic,Diesel,2015,13825000.0,2.0,2008.0,2016.0
+Micro,Rexton,Automatic,Diesel,2016,14000000.0,2.0,2008.0,2016.0
+Micro,Rexton,Tiptronic,Diesel,2008,7250000.0,1.0,2008.0,2009.0
+Micro,Rexton,Tiptronic,Diesel,2009,7900000.0,1.0,2008.0,2009.0
+Mitsubishi,Eclipse Cross,Automatic,Petrol,2018,16950000.0,2.0,2018.0,2024.0
+Mitsubishi,Eclipse Cross,Automatic,Petrol,2019,17492500.0,4.0,2018.0,2024.0
+Mitsubishi,Eclipse Cross,Automatic,Petrol,2020,18600000.0,2.0,2018.0,2024.0
+Mitsubishi,Eclipse Cross,Automatic,Petrol,2021,18966666.666666668,0.0,,
+Mitsubishi,Eclipse Cross,Automatic,Petrol,2022,19333333.333333332,0.0,,
+Mitsubishi,Eclipse Cross,Automatic,Petrol,2023,19700000.0,2.0,2018.0,2024.0
+Mitsubishi,Eclipse Cross,Automatic,Petrol,2024,21500000.0,1.0,2018.0,2024.0
+Mitsubishi,Eclipse Cross,Manual,Petrol,2018,19500000.0,1.0,2018.0,2018.0
+Mitsubishi,Eclipse Cross,Tiptronic,Petrol,2018,15990000.0,3.0,2018.0,2023.0
+Mitsubishi,Eclipse Cross,Tiptronic,Petrol,2019,19000000.0,1.0,2018.0,2023.0
+Mitsubishi,Eclipse Cross,Tiptronic,Petrol,2020,19625000.0,0.0,,
+Mitsubishi,Eclipse Cross,Tiptronic,Petrol,2021,20250000.0,0.0,,
+Mitsubishi,Eclipse Cross,Tiptronic,Petrol,2022,20875000.0,0.0,,
+Mitsubishi,Eclipse Cross,Tiptronic,Petrol,2023,21500000.0,1.0,2018.0,2023.0
+Mitsubishi,Lancer,Automatic,Petrol,2010,11200000.0,1.0,2010.0,2014.0
+Mitsubishi,Lancer,Automatic,Petrol,2011,16590000.0,1.0,2010.0,2014.0
+Mitsubishi,Lancer,Automatic,Petrol,2012,7400000.0,1.0,2010.0,2014.0
+Mitsubishi,Lancer,Automatic,Petrol,2013,13495000.0,0.0,,
+Mitsubishi,Lancer,Automatic,Petrol,2014,19590000.0,1.0,2010.0,2014.0
+Mitsubishi,Lancer,Manual,Petrol,1995,1250000.0,3.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,1996,630000.0,1.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,1997,1215000.0,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,1998,1800000.0,1.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,1999,3800000.0,1.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,2000,2950000.0,2.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,2001,5600000.0,1.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,2002,9175000.0,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2003,12750000.0,1.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,2004,10662500.0,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2005,8575000.0,2.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,2006,14500000.0,1.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,2007,6000000.0,1.0,1995.0,2020.0
+Mitsubishi,Lancer,Manual,Petrol,2008,5613846.153846154,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2009,5227692.307692308,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2010,4841538.461538462,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2011,4455384.615384616,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2012,4069230.7692307695,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2013,3683076.923076923,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2014,3296923.076923077,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2015,2910769.230769231,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2016,2524615.384615385,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2017,2138461.538461539,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2018,1752307.692307693,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2019,1366153.846153846,0.0,,
+Mitsubishi,Lancer,Manual,Petrol,2020,980000.0,1.0,1995.0,2020.0
+Mitsubishi,Montero,Automatic,Diesel,2000,16500000.0,1.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2001,16200000.0,0.0,,
+Mitsubishi,Montero,Automatic,Diesel,2002,15900000.0,1.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2003,14950000.0,1.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2004,15887500.0,0.0,,
+Mitsubishi,Montero,Automatic,Diesel,2005,16825000.0,0.0,,
+Mitsubishi,Montero,Automatic,Diesel,2006,17762500.0,0.0,,
+Mitsubishi,Montero,Automatic,Diesel,2007,18700000.0,2.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2008,18122500.0,0.0,,
+Mitsubishi,Montero,Automatic,Diesel,2009,17545000.0,0.0,,
+Mitsubishi,Montero,Automatic,Diesel,2010,16967500.0,0.0,,
+Mitsubishi,Montero,Automatic,Diesel,2011,16390000.0,3.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2012,16850000.0,5.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2013,26000000.0,7.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2014,25000000.0,1.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2015,29500000.0,4.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2016,23500000.0,1.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Diesel,2017,29500000.0,1.0,2000.0,2017.0
+Mitsubishi,Montero,Automatic,Petrol,2001,11900000.0,1.0,2001.0,2016.0
+Mitsubishi,Montero,Automatic,Petrol,2002,14940000.0,1.0,2001.0,2016.0
+Mitsubishi,Montero,Automatic,Petrol,2003,12887500.0,4.0,2001.0,2016.0
+Mitsubishi,Montero,Automatic,Petrol,2004,13200000.0,1.0,2001.0,2016.0
+Mitsubishi,Montero,Automatic,Petrol,2005,15165000.0,2.0,2001.0,2016.0
+Mitsubishi,Montero,Automatic,Petrol,2006,13950000.0,1.0,2001.0,2016.0
+Mitsubishi,Montero,Automatic,Petrol,2007,19250000.0,4.0,2001.0,2016.0
+Mitsubishi,Montero,Automatic,Petrol,2008,21111111.111111112,0.0,,
+Mitsubishi,Montero,Automatic,Petrol,2009,22972222.222222224,0.0,,
+Mitsubishi,Montero,Automatic,Petrol,2010,24833333.333333332,0.0,,
+Mitsubishi,Montero,Automatic,Petrol,2011,26694444.444444444,0.0,,
+Mitsubishi,Montero,Automatic,Petrol,2012,28555555.555555556,0.0,,
+Mitsubishi,Montero,Automatic,Petrol,2013,30416666.666666664,0.0,,
+Mitsubishi,Montero,Automatic,Petrol,2014,32277777.777777776,0.0,,
+Mitsubishi,Montero,Automatic,Petrol,2015,34138888.88888889,0.0,,
+Mitsubishi,Montero,Automatic,Petrol,2016,36000000.0,1.0,2001.0,2016.0
+Mitsubishi,Montero,Manual,Diesel,2001,11500000.0,1.0,2001.0,2015.0
+Mitsubishi,Montero,Manual,Diesel,2002,12500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2003,13500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2004,14500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2005,15500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2006,16500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2007,17500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2008,18500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2009,19500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2010,20500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2011,21500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2012,22500000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2013,23500000.0,1.0,2001.0,2015.0
+Mitsubishi,Montero,Manual,Diesel,2014,24025000.0,0.0,,
+Mitsubishi,Montero,Manual,Diesel,2015,24550000.0,1.0,2001.0,2015.0
+Mitsubishi,Montero,Tiptronic,Diesel,2001,15500000.0,1.0,2001.0,2015.0
+Mitsubishi,Montero,Tiptronic,Diesel,2002,16000000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Diesel,2003,16500000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Diesel,2004,17000000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Diesel,2005,17500000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Diesel,2006,18000000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Diesel,2007,18500000.0,1.0,2001.0,2015.0
+Mitsubishi,Montero,Tiptronic,Diesel,2008,17955000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Diesel,2009,17410000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Diesel,2010,16865000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Diesel,2011,16320000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Diesel,2012,15775000.0,2.0,2001.0,2015.0
+Mitsubishi,Montero,Tiptronic,Diesel,2013,25800000.0,3.0,2001.0,2015.0
+Mitsubishi,Montero,Tiptronic,Diesel,2014,27600000.0,2.0,2001.0,2015.0
+Mitsubishi,Montero,Tiptronic,Diesel,2015,32500000.0,2.0,2001.0,2015.0
+Mitsubishi,Montero,Tiptronic,Petrol,2004,13500000.0,1.0,2004.0,2006.0
+Mitsubishi,Montero,Tiptronic,Petrol,2005,13700000.0,0.0,,
+Mitsubishi,Montero,Tiptronic,Petrol,2006,13900000.0,1.0,2004.0,2006.0
+Mitsubishi,Other Model,Automatic,Diesel,2012,15900000.0,1.0,2012.0,2012.0
+Mitsubishi,Other Model,Automatic,Petrol,2000,5600000.0,1.0,2000.0,2001.0
+Mitsubishi,Other Model,Automatic,Petrol,2001,2875000.0,1.0,2000.0,2001.0
+Mitsubishi,Other Model,Manual,Petrol,2002,2500000.0,1.0,2002.0,2002.0
+Mitsubishi,Other Model,Tiptronic,Diesel,2024,28500000.0,1.0,2024.0,2024.0
+Mitsubishi,Outlander,Automatic,Hybrid,2013,13250000.0,3.0,2013.0,2024.0
+Mitsubishi,Outlander,Automatic,Hybrid,2014,13475000.0,4.0,2013.0,2024.0
+Mitsubishi,Outlander,Automatic,Hybrid,2015,15400000.0,6.0,2013.0,2024.0
+Mitsubishi,Outlander,Automatic,Hybrid,2016,19850000.0,1.0,2013.0,2024.0
+Mitsubishi,Outlander,Automatic,Hybrid,2017,22643750.0,0.0,,
+Mitsubishi,Outlander,Automatic,Hybrid,2018,25437500.0,0.0,,
+Mitsubishi,Outlander,Automatic,Hybrid,2019,28231250.0,0.0,,
+Mitsubishi,Outlander,Automatic,Hybrid,2020,31025000.0,0.0,,
+Mitsubishi,Outlander,Automatic,Hybrid,2021,33818750.0,0.0,,
+Mitsubishi,Outlander,Automatic,Hybrid,2022,36612500.0,0.0,,
+Mitsubishi,Outlander,Automatic,Hybrid,2023,39406250.0,0.0,,
+Mitsubishi,Outlander,Automatic,Hybrid,2024,42200000.0,1.0,2013.0,2024.0
+Mitsubishi,Outlander,Automatic,Petrol,2012,12400000.0,1.0,2012.0,2015.0
+Mitsubishi,Outlander,Automatic,Petrol,2013,13075000.0,0.0,,
+Mitsubishi,Outlander,Automatic,Petrol,2014,13750000.0,2.0,2012.0,2015.0
+Mitsubishi,Outlander,Automatic,Petrol,2015,14700000.0,1.0,2012.0,2015.0
+Mitsubishi,Outlander,Tiptronic,Hybrid,2015,16000000.0,1.0,2015.0,2015.0
+Nissan,AD Wagon,Automatic,Diesel,1997,2500000.0,1.0,1997.0,2000.0
+Nissan,AD Wagon,Automatic,Diesel,1998,2466666.6666666665,0.0,,
+Nissan,AD Wagon,Automatic,Diesel,1999,2433333.3333333335,0.0,,
+Nissan,AD Wagon,Automatic,Diesel,2000,2400000.0,1.0,1997.0,2000.0
+Nissan,AD Wagon,Automatic,Petrol,1997,2290000.0,2.0,1997.0,2002.0
+Nissan,AD Wagon,Automatic,Petrol,1998,2620000.0,0.0,,
+Nissan,AD Wagon,Automatic,Petrol,1999,2950000.0,1.0,1997.0,2002.0
+Nissan,AD Wagon,Automatic,Petrol,2000,3125000.0,0.0,,
+Nissan,AD Wagon,Automatic,Petrol,2001,3300000.0,1.0,1997.0,2002.0
+Nissan,AD Wagon,Automatic,Petrol,2002,3500000.0,1.0,1997.0,2002.0
+Nissan,AD Wagon,Manual,Petrol,1998,1775000.0,2.0,1998.0,2003.0
+Nissan,AD Wagon,Manual,Petrol,1999,1570000.0,0.0,,
+Nissan,AD Wagon,Manual,Petrol,2000,1365000.0,0.0,,
+Nissan,AD Wagon,Manual,Petrol,2001,1160000.0,0.0,,
+Nissan,AD Wagon,Manual,Petrol,2002,955000.0,0.0,,
+Nissan,AD Wagon,Manual,Petrol,2003,750000.0,1.0,1998.0,2003.0
+Nissan,Dayz,Automatic,Hybrid,2017,5975000.0,1.0,2017.0,2024.0
+Nissan,Dayz,Automatic,Hybrid,2018,6354166.666666667,0.0,,
+Nissan,Dayz,Automatic,Hybrid,2019,6733333.333333333,0.0,,
+Nissan,Dayz,Automatic,Hybrid,2020,7112500.0,0.0,,
+Nissan,Dayz,Automatic,Hybrid,2021,7491666.666666667,0.0,,
+Nissan,Dayz,Automatic,Hybrid,2022,7870833.333333334,0.0,,
+Nissan,Dayz,Automatic,Hybrid,2023,8250000.0,1.0,2017.0,2024.0
+Nissan,Dayz,Automatic,Hybrid,2024,8800000.0,2.0,2017.0,2024.0
+Nissan,Dayz,Automatic,Petrol,2015,6490000.0,1.0,2015.0,2025.0
+Nissan,Dayz,Automatic,Petrol,2016,6350000.0,3.0,2015.0,2025.0
+Nissan,Dayz,Automatic,Petrol,2017,6512500.0,2.0,2015.0,2025.0
+Nissan,Dayz,Automatic,Petrol,2018,7250000.0,1.0,2015.0,2025.0
+Nissan,Dayz,Automatic,Petrol,2019,7390000.0,0.0,,
+Nissan,Dayz,Automatic,Petrol,2020,7530000.0,0.0,,
+Nissan,Dayz,Automatic,Petrol,2021,7670000.0,0.0,,
+Nissan,Dayz,Automatic,Petrol,2022,7810000.0,0.0,,
+Nissan,Dayz,Automatic,Petrol,2023,7950000.0,3.0,2015.0,2025.0
+Nissan,Dayz,Automatic,Petrol,2024,7475000.0,1.0,2015.0,2025.0
+Nissan,Dayz,Automatic,Petrol,2025,7400000.0,1.0,2015.0,2025.0
+Nissan,Leaf,Automatic,Electric,2012,6200000.0,3.0,2012.0,2023.0
+Nissan,Leaf,Automatic,Electric,2013,5390000.0,3.0,2012.0,2023.0
+Nissan,Leaf,Automatic,Electric,2014,5490000.0,1.0,2012.0,2023.0
+Nissan,Leaf,Automatic,Electric,2015,4845000.0,2.0,2012.0,2023.0
+Nissan,Leaf,Automatic,Electric,2016,7396666.666666666,0.0,,
+Nissan,Leaf,Automatic,Electric,2017,9948333.333333332,0.0,,
+Nissan,Leaf,Automatic,Electric,2018,12500000.0,1.0,2012.0,2023.0
+Nissan,Leaf,Automatic,Electric,2019,13160000.0,0.0,,
+Nissan,Leaf,Automatic,Electric,2020,13820000.0,0.0,,
+Nissan,Leaf,Automatic,Electric,2021,14480000.0,0.0,,
+Nissan,Leaf,Automatic,Electric,2022,15140000.0,0.0,,
+Nissan,Leaf,Automatic,Electric,2023,15800000.0,1.0,2012.0,2023.0
+Nissan,Leaf,Manual,Petrol,2001,1500000.0,1.0,2001.0,2001.0
+Nissan,March,Automatic,Petrol,2000,2900000.0,1.0,2000.0,2009.0
+Nissan,March,Automatic,Petrol,2001,2962500.0,2.0,2000.0,2009.0
+Nissan,March,Automatic,Petrol,2002,3550000.0,1.0,2000.0,2009.0
+Nissan,March,Automatic,Petrol,2003,3758000.0,0.0,,
+Nissan,March,Automatic,Petrol,2004,3966000.0,0.0,,
+Nissan,March,Automatic,Petrol,2005,4174000.0,0.0,,
+Nissan,March,Automatic,Petrol,2006,4382000.0,0.0,,
+Nissan,March,Automatic,Petrol,2007,4590000.0,1.0,2000.0,2009.0
+Nissan,March,Automatic,Petrol,2008,4625000.0,2.0,2000.0,2009.0
+Nissan,March,Automatic,Petrol,2009,5350000.0,1.0,2000.0,2009.0
+Nissan,March,Manual,Petrol,1996,2550000.0,1.0,1996.0,2000.0
+Nissan,March,Manual,Petrol,1997,2662500.0,0.0,,
+Nissan,March,Manual,Petrol,1998,2775000.0,0.0,,
+Nissan,March,Manual,Petrol,1999,2887500.0,0.0,,
+Nissan,March,Manual,Petrol,2000,3000000.0,1.0,1996.0,2000.0
+Nissan,Other Model,Automatic,Diesel,2008,4950000.0,1.0,2008.0,2013.0
+Nissan,Other Model,Automatic,Diesel,2009,6800000.0,0.0,,
+Nissan,Other Model,Automatic,Diesel,2010,8650000.0,0.0,,
+Nissan,Other Model,Automatic,Diesel,2011,10500000.0,0.0,,
+Nissan,Other Model,Automatic,Diesel,2012,12350000.0,0.0,,
+Nissan,Other Model,Automatic,Diesel,2013,14200000.0,1.0,2008.0,2013.0
+Nissan,Other Model,Automatic,Hybrid,2024,9850000.0,1.0,2024.0,2024.0
+Nissan,Other Model,Automatic,Petrol,2000,2850000.0,1.0,2000.0,2011.0
+Nissan,Other Model,Automatic,Petrol,2001,3215000.0,0.0,,
+Nissan,Other Model,Automatic,Petrol,2002,3580000.0,0.0,,
+Nissan,Other Model,Automatic,Petrol,2003,3945000.0,0.0,,
+Nissan,Other Model,Automatic,Petrol,2004,4310000.0,0.0,,
+Nissan,Other Model,Automatic,Petrol,2005,4675000.0,1.0,2000.0,2011.0
+Nissan,Other Model,Automatic,Petrol,2006,4862500.0,0.0,,
+Nissan,Other Model,Automatic,Petrol,2007,5050000.0,0.0,,
+Nissan,Other Model,Automatic,Petrol,2008,5237500.0,0.0,,
+Nissan,Other Model,Automatic,Petrol,2009,5425000.0,0.0,,
+Nissan,Other Model,Automatic,Petrol,2010,5612500.0,0.0,,
+Nissan,Other Model,Automatic,Petrol,2011,5800000.0,1.0,2000.0,2011.0
+Nissan,Other Model,Manual,Diesel,1999,3500000.0,1.0,1999.0,1999.0
+Nissan,Other Model,Manual,Petrol,1998,3800000.0,1.0,1998.0,2010.0
+Nissan,Other Model,Manual,Petrol,1999,3550000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2000,3300000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2001,3050000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2002,2800000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2003,2550000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2004,2300000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2005,2050000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2006,1800000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2007,1550000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2008,1300000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2009,1050000.0,0.0,,
+Nissan,Other Model,Manual,Petrol,2010,800000.0,1.0,1998.0,2010.0
+Nissan,Sunny,Automatic,Diesel,1997,2775000.0,2.0,1997.0,2020.0
+Nissan,Sunny,Automatic,Diesel,1998,2750000.0,1.0,1997.0,2020.0
+Nissan,Sunny,Automatic,Diesel,1999,2639545.4545454546,0.0,,
+Nissan,Sunny,Automatic,Diesel,2000,2529090.909090909,0.0,,
+Nissan,Sunny,Automatic,Diesel,2001,2418636.3636363638,0.0,,
+Nissan,Sunny,Automatic,Diesel,2002,2308181.8181818184,0.0,,
+Nissan,Sunny,Automatic,Diesel,2003,2197727.2727272725,0.0,,
+Nissan,Sunny,Automatic,Diesel,2004,2087272.7272727273,0.0,,
+Nissan,Sunny,Automatic,Diesel,2005,1976818.1818181816,0.0,,
+Nissan,Sunny,Automatic,Diesel,2006,1866363.6363636362,0.0,,
+Nissan,Sunny,Automatic,Diesel,2007,1755909.0909090908,0.0,,
+Nissan,Sunny,Automatic,Diesel,2008,1645454.5454545454,0.0,,
+Nissan,Sunny,Automatic,Diesel,2009,1535000.0,0.0,,
+Nissan,Sunny,Automatic,Diesel,2010,1424545.4545454546,0.0,,
+Nissan,Sunny,Automatic,Diesel,2011,1314090.9090909092,0.0,,
+Nissan,Sunny,Automatic,Diesel,2012,1203636.3636363635,0.0,,
+Nissan,Sunny,Automatic,Diesel,2013,1093181.8181818181,0.0,,
+Nissan,Sunny,Automatic,Diesel,2014,982727.2727272727,0.0,,
+Nissan,Sunny,Automatic,Diesel,2015,872272.7272727273,0.0,,
+Nissan,Sunny,Automatic,Diesel,2016,761818.1818181819,0.0,,
+Nissan,Sunny,Automatic,Diesel,2017,651363.6363636362,0.0,,
+Nissan,Sunny,Automatic,Diesel,2018,540909.0909090908,0.0,,
+Nissan,Sunny,Automatic,Diesel,2019,430454.5454545454,0.0,,
+Nissan,Sunny,Automatic,Diesel,2020,320000.0,1.0,1997.0,2020.0
+Nissan,Sunny,Automatic,Petrol,1996,2590000.0,1.0,1996.0,2003.0
+Nissan,Sunny,Automatic,Petrol,1997,2904166.6666666665,0.0,,
+Nissan,Sunny,Automatic,Petrol,1998,3218333.3333333335,0.0,,
+Nissan,Sunny,Automatic,Petrol,1999,3532500.0,0.0,,
+Nissan,Sunny,Automatic,Petrol,2000,3846666.666666667,0.0,,
+Nissan,Sunny,Automatic,Petrol,2001,4160833.3333333335,0.0,,
+Nissan,Sunny,Automatic,Petrol,2002,4475000.0,1.0,1996.0,2003.0
+Nissan,Sunny,Automatic,Petrol,2003,4375000.0,1.0,1996.0,2003.0
+Nissan,Sunny,Manual,Diesel,1995,2295500.0,1.0,1995.0,1999.0
+Nissan,Sunny,Manual,Diesel,1996,2191500.0,0.0,,
+Nissan,Sunny,Manual,Diesel,1997,2087500.0,2.0,1995.0,1999.0
+Nissan,Sunny,Manual,Diesel,1998,1100000.0,1.0,1995.0,1999.0
+Nissan,Sunny,Manual,Diesel,1999,2800000.0,1.0,1995.0,1999.0
+Nissan,Sunny,Manual,Petrol,1995,2565000.0,2.0,1995.0,2002.0
+Nissan,Sunny,Manual,Petrol,1996,1375000.0,1.0,1995.0,2002.0
+Nissan,Sunny,Manual,Petrol,1997,2837500.0,2.0,1995.0,2002.0
+Nissan,Sunny,Manual,Petrol,1998,2768750.0,0.0,,
+Nissan,Sunny,Manual,Petrol,1999,2700000.0,1.0,1995.0,2002.0
+Nissan,Sunny,Manual,Petrol,2000,2095000.0,2.0,1995.0,2002.0
+Nissan,Sunny,Manual,Petrol,2001,3078750.0,0.0,,
+Nissan,Sunny,Manual,Petrol,2002,4062500.0,2.0,1995.0,2002.0
+Nissan,X-Trail,Automatic,Diesel,2013,12950000.0,1.0,2013.0,2014.0
+Nissan,X-Trail,Automatic,Diesel,2014,9600000.0,1.0,2013.0,2014.0
+Nissan,X-Trail,Automatic,Hybrid,2015,12950000.0,3.0,2015.0,2016.0
+Nissan,X-Trail,Automatic,Hybrid,2016,12300000.0,8.0,2015.0,2016.0
+Nissan,X-Trail,Automatic,Petrol,2003,6500000.0,2.0,2003.0,2025.0
+Nissan,X-Trail,Automatic,Petrol,2004,6793750.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2005,7087500.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2006,7381250.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2007,7675000.0,1.0,2003.0,2025.0
+Nissan,X-Trail,Automatic,Petrol,2008,8145833.333333333,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2009,8616666.666666666,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2010,9087500.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2011,9558333.333333334,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2012,10029166.666666666,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2013,10500000.0,1.0,2003.0,2025.0
+Nissan,X-Trail,Automatic,Petrol,2014,11250000.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2015,12000000.0,7.0,2003.0,2025.0
+Nissan,X-Trail,Automatic,Petrol,2016,12200000.0,3.0,2003.0,2025.0
+Nissan,X-Trail,Automatic,Petrol,2017,18500000.0,1.0,2003.0,2025.0
+Nissan,X-Trail,Automatic,Petrol,2018,19937500.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2019,21375000.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2020,22812500.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2021,24250000.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2022,25687500.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2023,27125000.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2024,28562500.0,0.0,,
+Nissan,X-Trail,Automatic,Petrol,2025,30000000.0,1.0,2003.0,2025.0
+Nissan,X-Trail,Manual,Petrol,2001,5700000.0,1.0,2001.0,2006.0
+Nissan,X-Trail,Manual,Petrol,2002,6010000.0,0.0,,
+Nissan,X-Trail,Manual,Petrol,2003,6320000.0,0.0,,
+Nissan,X-Trail,Manual,Petrol,2004,6630000.0,0.0,,
+Nissan,X-Trail,Manual,Petrol,2005,6940000.0,0.0,,
+Nissan,X-Trail,Manual,Petrol,2006,7250000.0,1.0,2001.0,2006.0
+Nissan,X-Trail,Tiptronic,Hybrid,2025,30000000.0,2.0,2025.0,2025.0
+Suzuki,Alto,Automatic,Hybrid,2023,7475000.0,5.0,2023.0,2025.0
+Suzuki,Alto,Automatic,Hybrid,2024,7850000.0,4.0,2023.0,2025.0
+Suzuki,Alto,Automatic,Hybrid,2025,8425000.0,2.0,2023.0,2025.0
+Suzuki,Alto,Automatic,Petrol,2004,3500000.0,1.0,2004.0,2025.0
+Suzuki,Alto,Automatic,Petrol,2005,3587500.0,0.0,,
+Suzuki,Alto,Automatic,Petrol,2006,3675000.0,0.0,,
+Suzuki,Alto,Automatic,Petrol,2007,3762500.0,0.0,,
+Suzuki,Alto,Automatic,Petrol,2008,3850000.0,1.0,2004.0,2025.0
+Suzuki,Alto,Automatic,Petrol,2009,4107142.8571428573,0.0,,
+Suzuki,Alto,Automatic,Petrol,2010,4364285.714285715,0.0,,
+Suzuki,Alto,Automatic,Petrol,2011,4621428.571428571,0.0,,
+Suzuki,Alto,Automatic,Petrol,2012,4878571.428571428,0.0,,
+Suzuki,Alto,Automatic,Petrol,2013,5135714.285714285,0.0,,
+Suzuki,Alto,Automatic,Petrol,2014,5392857.142857143,0.0,,
+Suzuki,Alto,Automatic,Petrol,2015,5650000.0,1.0,2004.0,2025.0
+Suzuki,Alto,Automatic,Petrol,2016,5485000.0,3.0,2004.0,2025.0
+Suzuki,Alto,Automatic,Petrol,2017,5500000.0,1.0,2004.0,2025.0
+Suzuki,Alto,Automatic,Petrol,2018,5791666.666666667,0.0,,
+Suzuki,Alto,Automatic,Petrol,2019,6083333.333333333,0.0,,
+Suzuki,Alto,Automatic,Petrol,2020,6375000.0,0.0,,
+Suzuki,Alto,Automatic,Petrol,2021,6666666.666666667,0.0,,
+Suzuki,Alto,Automatic,Petrol,2022,6958333.333333334,0.0,,
+Suzuki,Alto,Automatic,Petrol,2023,7250000.0,10.0,2004.0,2025.0
+Suzuki,Alto,Automatic,Petrol,2024,7150000.0,5.0,2004.0,2025.0
+Suzuki,Alto,Automatic,Petrol,2025,6500000.0,1.0,2004.0,2025.0
+Suzuki,Alto,Manual,Petrol,1998,2175000.0,1.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,1999,2087500.0,0.0,,
+Suzuki,Alto,Manual,Petrol,2000,2000000.0,1.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,2001,2150000.0,0.0,,
+Suzuki,Alto,Manual,Petrol,2002,2300000.0,0.0,,
+Suzuki,Alto,Manual,Petrol,2003,2450000.0,0.0,,
+Suzuki,Alto,Manual,Petrol,2004,2600000.0,0.0,,
+Suzuki,Alto,Manual,Petrol,2005,2750000.0,1.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,2006,2600000.0,1.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,2007,2622500.0,2.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,2008,2705833.3333333335,0.0,,
+Suzuki,Alto,Manual,Petrol,2009,2789166.6666666665,0.0,,
+Suzuki,Alto,Manual,Petrol,2010,2872500.0,6.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,2011,2876500.0,6.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,2012,2990000.0,2.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,2013,3205000.0,0.0,,
+Suzuki,Alto,Manual,Petrol,2014,3420000.0,2.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,2015,3650000.0,13.0,1998.0,2016.0
+Suzuki,Alto,Manual,Petrol,2016,3675000.0,3.0,1998.0,2016.0
+Suzuki,Baleno,Automatic,Petrol,2016,8000000.0,5.0,2016.0,2020.0
+Suzuki,Baleno,Automatic,Petrol,2017,7250000.0,1.0,2016.0,2020.0
+Suzuki,Baleno,Automatic,Petrol,2018,8225000.0,0.0,,
+Suzuki,Baleno,Automatic,Petrol,2019,9200000.0,1.0,2016.0,2020.0
+Suzuki,Baleno,Automatic,Petrol,2020,9175000.0,2.0,2016.0,2020.0
+Suzuki,Baleno,Tiptronic,Petrol,2016,7500000.0,1.0,2016.0,2019.0
+Suzuki,Baleno,Tiptronic,Petrol,2017,7733333.333333333,0.0,,
+Suzuki,Baleno,Tiptronic,Petrol,2018,7966666.666666667,0.0,,
+Suzuki,Baleno,Tiptronic,Petrol,2019,8200000.0,1.0,2016.0,2019.0
+Suzuki,Celerio,Automatic,Petrol,2014,4762500.0,2.0,2014.0,2017.0
+Suzuki,Celerio,Automatic,Petrol,2015,4875000.0,3.0,2014.0,2017.0
+Suzuki,Celerio,Automatic,Petrol,2016,4950000.0,1.0,2014.0,2017.0
+Suzuki,Celerio,Automatic,Petrol,2017,5290000.0,1.0,2014.0,2017.0
+Suzuki,Celerio,Manual,Petrol,2015,5000000.0,2.0,2015.0,2016.0
+Suzuki,Celerio,Manual,Petrol,2016,5050000.0,2.0,2015.0,2016.0
+Suzuki,Celerio,Tiptronic,Petrol,2015,5250000.0,1.0,2015.0,2017.0
+Suzuki,Celerio,Tiptronic,Petrol,2016,5550000.0,0.0,,
+Suzuki,Celerio,Tiptronic,Petrol,2017,5850000.0,1.0,2015.0,2017.0
+Suzuki,Hustler,Automatic,Hybrid,2015,6700000.0,1.0,2015.0,2025.0
+Suzuki,Hustler,Automatic,Hybrid,2016,6550000.0,0.0,,
+Suzuki,Hustler,Automatic,Hybrid,2017,6400000.0,2.0,2015.0,2025.0
+Suzuki,Hustler,Automatic,Hybrid,2018,6733333.333333333,0.0,,
+Suzuki,Hustler,Automatic,Hybrid,2019,7066666.666666667,0.0,,
+Suzuki,Hustler,Automatic,Hybrid,2020,7400000.0,0.0,,
+Suzuki,Hustler,Automatic,Hybrid,2021,7733333.333333333,0.0,,
+Suzuki,Hustler,Automatic,Hybrid,2022,8066666.666666666,0.0,,
+Suzuki,Hustler,Automatic,Hybrid,2023,8400000.0,2.0,2015.0,2025.0
+Suzuki,Hustler,Automatic,Hybrid,2024,8790000.0,5.0,2015.0,2025.0
+Suzuki,Hustler,Automatic,Hybrid,2025,8690000.0,1.0,2015.0,2025.0
+Suzuki,Hustler,Automatic,Petrol,2018,7650000.0,1.0,2018.0,2024.0
+Suzuki,Hustler,Automatic,Petrol,2019,7987500.0,0.0,,
+Suzuki,Hustler,Automatic,Petrol,2020,8325000.0,0.0,,
+Suzuki,Hustler,Automatic,Petrol,2021,8662500.0,0.0,,
+Suzuki,Hustler,Automatic,Petrol,2022,9000000.0,0.0,,
+Suzuki,Hustler,Automatic,Petrol,2023,9337500.0,0.0,,
+Suzuki,Hustler,Automatic,Petrol,2024,9675000.0,2.0,2018.0,2024.0
+Suzuki,Maruti,Automatic,Petrol,1996,1150000.0,1.0,1996.0,2002.0
+Suzuki,Maruti,Automatic,Petrol,1997,1591666.6666666667,0.0,,
+Suzuki,Maruti,Automatic,Petrol,1998,2033333.3333333335,0.0,,
+Suzuki,Maruti,Automatic,Petrol,1999,2475000.0,0.0,,
+Suzuki,Maruti,Automatic,Petrol,2000,2916666.666666667,0.0,,
+Suzuki,Maruti,Automatic,Petrol,2001,3358333.3333333335,0.0,,
+Suzuki,Maruti,Automatic,Petrol,2002,3800000.0,1.0,1996.0,2002.0
+Suzuki,Maruti,Manual,Petrol,1995,1200000.0,1.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,1996,1440000.0,1.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,1997,1390000.0,0.0,,
+Suzuki,Maruti,Manual,Petrol,1998,1340000.0,0.0,,
+Suzuki,Maruti,Manual,Petrol,1999,1290000.0,1.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2000,1395000.0,1.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2001,1700000.0,1.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2002,1400000.0,1.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2003,1595000.0,5.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2004,1732500.0,2.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2005,1875000.0,7.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2006,1850000.0,6.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2007,1825000.0,2.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2008,2035000.0,2.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2009,1985000.0,1.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2010,2087500.0,8.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2011,2095000.0,8.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2012,2300000.0,3.0,1995.0,2026.0
+Suzuki,Maruti,Manual,Petrol,2013,2178571.4285714286,0.0,,
+Suzuki,Maruti,Manual,Petrol,2014,2057142.857142857,0.0,,
+Suzuki,Maruti,Manual,Petrol,2015,1935714.2857142857,0.0,,
+Suzuki,Maruti,Manual,Petrol,2016,1814285.7142857143,0.0,,
+Suzuki,Maruti,Manual,Petrol,2017,1692857.1428571427,0.0,,
+Suzuki,Maruti,Manual,Petrol,2018,1571428.5714285714,0.0,,
+Suzuki,Maruti,Manual,Petrol,2019,1450000.0,0.0,,
+Suzuki,Maruti,Manual,Petrol,2020,1328571.4285714286,0.0,,
+Suzuki,Maruti,Manual,Petrol,2021,1207142.857142857,0.0,,
+Suzuki,Maruti,Manual,Petrol,2022,1085714.2857142857,0.0,,
+Suzuki,Maruti,Manual,Petrol,2023,964285.7142857143,0.0,,
+Suzuki,Maruti,Manual,Petrol,2024,842857.1428571427,0.0,,
+Suzuki,Maruti,Manual,Petrol,2025,721428.5714285714,0.0,,
+Suzuki,Maruti,Manual,Petrol,2026,600000.0,1.0,1995.0,2026.0
+Suzuki,Other Model,Automatic,Hybrid,2025,8400000.0,1.0,2025.0,2025.0
+Suzuki,Other Model,Automatic,Petrol,1998,2500000.0,1.0,1998.0,2024.0
+Suzuki,Other Model,Automatic,Petrol,1999,2700000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2000,2900000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2001,3100000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2002,3300000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2003,3500000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2004,3700000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2005,3900000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2006,4100000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2007,4300000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2008,4500000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2009,4700000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2010,4900000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2011,5100000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2012,5300000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2013,5500000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2014,5700000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2015,5900000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2016,6100000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2017,6300000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2018,6500000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2019,6700000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2020,6900000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2021,7100000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2022,7300000.0,0.0,,
+Suzuki,Other Model,Automatic,Petrol,2023,7500000.0,1.0,1998.0,2024.0
+Suzuki,Other Model,Automatic,Petrol,2024,8000000.0,1.0,1998.0,2024.0
+Suzuki,Other Model,Manual,Petrol,1999,2250000.0,1.0,1999.0,1999.0
+Suzuki,Spacia,Automatic,Hybrid,2017,6090000.0,1.0,2017.0,2025.0
+Suzuki,Spacia,Automatic,Hybrid,2018,7612500.0,2.0,2017.0,2025.0
+Suzuki,Spacia,Automatic,Hybrid,2019,7930000.0,0.0,,
+Suzuki,Spacia,Automatic,Hybrid,2020,8247500.0,0.0,,
+Suzuki,Spacia,Automatic,Hybrid,2021,8565000.0,0.0,,
+Suzuki,Spacia,Automatic,Hybrid,2022,8882500.0,0.0,,
+Suzuki,Spacia,Automatic,Hybrid,2023,9200000.0,9.0,2017.0,2025.0
+Suzuki,Spacia,Automatic,Hybrid,2024,10550000.0,7.0,2017.0,2025.0
+Suzuki,Spacia,Automatic,Hybrid,2025,10850000.0,4.0,2017.0,2025.0
+Suzuki,Spacia,Automatic,Petrol,2015,6800000.0,1.0,2015.0,2025.0
+Suzuki,Spacia,Automatic,Petrol,2016,6775000.0,0.0,,
+Suzuki,Spacia,Automatic,Petrol,2017,6750000.0,4.0,2015.0,2025.0
+Suzuki,Spacia,Automatic,Petrol,2018,7478571.428571428,0.0,,
+Suzuki,Spacia,Automatic,Petrol,2019,8207142.857142857,0.0,,
+Suzuki,Spacia,Automatic,Petrol,2020,8935714.285714285,0.0,,
+Suzuki,Spacia,Automatic,Petrol,2021,9664285.714285715,0.0,,
+Suzuki,Spacia,Automatic,Petrol,2022,10392857.142857142,0.0,,
+Suzuki,Spacia,Automatic,Petrol,2023,11121428.57142857,0.0,,
+Suzuki,Spacia,Automatic,Petrol,2024,11850000.0,1.0,2015.0,2025.0
+Suzuki,Spacia,Automatic,Petrol,2025,11590000.0,1.0,2015.0,2025.0
+Suzuki,Swift,Automatic,Hybrid,2017,8800000.0,1.0,2017.0,2025.0
+Suzuki,Swift,Automatic,Hybrid,2018,9175500.0,0.0,,
+Suzuki,Swift,Automatic,Hybrid,2019,9551000.0,0.0,,
+Suzuki,Swift,Automatic,Hybrid,2020,9926500.0,0.0,,
+Suzuki,Swift,Automatic,Hybrid,2021,10302000.0,0.0,,
+Suzuki,Swift,Automatic,Hybrid,2022,10677500.0,0.0,,
+Suzuki,Swift,Automatic,Hybrid,2023,11053000.0,3.0,2017.0,2025.0
+Suzuki,Swift,Automatic,Hybrid,2024,12500000.0,5.0,2017.0,2025.0
+Suzuki,Swift,Automatic,Hybrid,2025,13500000.0,1.0,2017.0,2025.0
+Suzuki,Swift,Automatic,Petrol,2002,4200000.0,1.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2003,3985000.0,1.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2004,4387500.0,2.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2005,4716666.666666667,0.0,,
+Suzuki,Swift,Automatic,Petrol,2006,5045833.333333333,0.0,,
+Suzuki,Swift,Automatic,Petrol,2007,5375000.0,2.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2008,5590000.0,1.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2009,5600000.0,3.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2010,5500000.0,1.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2011,6925000.0,1.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2012,7229166.666666667,0.0,,
+Suzuki,Swift,Automatic,Petrol,2013,7533333.333333333,0.0,,
+Suzuki,Swift,Automatic,Petrol,2014,7837500.0,0.0,,
+Suzuki,Swift,Automatic,Petrol,2015,8141666.666666667,0.0,,
+Suzuki,Swift,Automatic,Petrol,2016,8445833.333333334,0.0,,
+Suzuki,Swift,Automatic,Petrol,2017,8750000.0,7.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2018,8500000.0,1.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2019,9725000.0,2.0,2002.0,2024.0
+Suzuki,Swift,Automatic,Petrol,2020,10680000.0,0.0,,
+Suzuki,Swift,Automatic,Petrol,2021,11635000.0,0.0,,
+Suzuki,Swift,Automatic,Petrol,2022,12590000.0,0.0,,
+Suzuki,Swift,Automatic,Petrol,2023,13545000.0,0.0,,
+Suzuki,Swift,Automatic,Petrol,2024,14500000.0,1.0,2002.0,2024.0
+Suzuki,Swift,Manual,Petrol,1999,800000.0,1.0,1999.0,1999.0
+Suzuki,Swift,Tiptronic,Petrol,2017,8975000.0,2.0,2017.0,2017.0
+Suzuki,Wagon R,Automatic,Hybrid,2016,6700000.0,1.0,2016.0,2025.0
+Suzuki,Wagon R,Automatic,Hybrid,2017,7141666.666666667,0.0,,
+Suzuki,Wagon R,Automatic,Hybrid,2018,7583333.333333333,0.0,,
+Suzuki,Wagon R,Automatic,Hybrid,2019,8025000.0,0.0,,
+Suzuki,Wagon R,Automatic,Hybrid,2020,8466666.666666666,0.0,,
+Suzuki,Wagon R,Automatic,Hybrid,2021,8908333.333333334,0.0,,
+Suzuki,Wagon R,Automatic,Hybrid,2022,9350000.0,1.0,2016.0,2025.0
+Suzuki,Wagon R,Automatic,Hybrid,2023,9275000.0,11.0,2016.0,2025.0
+Suzuki,Wagon R,Automatic,Hybrid,2024,9350000.0,7.0,2016.0,2025.0
+Suzuki,Wagon R,Automatic,Hybrid,2025,10100000.0,1.0,2016.0,2025.0
+Suzuki,Wagon R,Automatic,Petrol,2017,6912500.0,2.0,2017.0,2024.0
+Suzuki,Wagon R,Automatic,Petrol,2018,7050000.0,2.0,2017.0,2024.0
+Suzuki,Wagon R,Automatic,Petrol,2019,7200000.0,1.0,2017.0,2024.0
+Suzuki,Wagon R,Automatic,Petrol,2020,7218750.0,0.0,,
+Suzuki,Wagon R,Automatic,Petrol,2021,7237500.0,0.0,,
+Suzuki,Wagon R,Automatic,Petrol,2022,7256250.0,0.0,,
+Suzuki,Wagon R,Automatic,Petrol,2023,7275000.0,9.0,2017.0,2024.0
+Suzuki,Wagon R,Automatic,Petrol,2024,9762500.0,4.0,2017.0,2024.0
+Suzuki,Wagon R,Manual,Petrol,2004,3095000.0,1.0,2004.0,2004.0
+Suzuki,Wagon R,Tiptronic,Petrol,2019,5350000.0,1.0,2019.0,2019.0
+Suzuki,Wagon R FX,Automatic,Hybrid,2017,6200000.0,1.0,2017.0,2024.0
+Suzuki,Wagon R FX,Automatic,Hybrid,2018,6541666.666666667,0.0,,
+Suzuki,Wagon R FX,Automatic,Hybrid,2019,6883333.333333333,0.0,,
+Suzuki,Wagon R FX,Automatic,Hybrid,2020,7225000.0,0.0,,
+Suzuki,Wagon R FX,Automatic,Hybrid,2021,7566666.666666667,0.0,,
+Suzuki,Wagon R FX,Automatic,Hybrid,2022,7908333.333333334,0.0,,
+Suzuki,Wagon R FX,Automatic,Hybrid,2023,8250000.0,4.0,2017.0,2024.0
+Suzuki,Wagon R FX,Automatic,Hybrid,2024,8342500.0,6.0,2017.0,2024.0
+Suzuki,Wagon R FX,Automatic,Petrol,2018,6000000.0,1.0,2018.0,2024.0
+Suzuki,Wagon R FX,Automatic,Petrol,2019,6925000.0,0.0,,
+Suzuki,Wagon R FX,Automatic,Petrol,2020,7850000.0,1.0,2018.0,2024.0
+Suzuki,Wagon R FX,Automatic,Petrol,2021,7716666.666666667,0.0,,
+Suzuki,Wagon R FX,Automatic,Petrol,2022,7583333.333333333,0.0,,
+Suzuki,Wagon R FX,Automatic,Petrol,2023,7450000.0,13.0,2018.0,2024.0
+Suzuki,Wagon R FX,Automatic,Petrol,2024,7850000.0,5.0,2018.0,2024.0
+Suzuki,Wagon R FZ,Automatic,Hybrid,2017,6792499.0,6.0,2017.0,2018.0
+Suzuki,Wagon R FZ,Automatic,Hybrid,2018,7037500.0,4.0,2017.0,2018.0
+Suzuki,Wagon R FZ,Automatic,Petrol,2014,5992500.0,2.0,2014.0,2024.0
+Suzuki,Wagon R FZ,Automatic,Petrol,2015,5996250.0,0.0,,
+Suzuki,Wagon R FZ,Automatic,Petrol,2016,6000000.0,1.0,2014.0,2024.0
+Suzuki,Wagon R FZ,Automatic,Petrol,2017,6325000.0,0.0,,
+Suzuki,Wagon R FZ,Automatic,Petrol,2018,6650000.0,1.0,2014.0,2024.0
+Suzuki,Wagon R FZ,Automatic,Petrol,2019,6990000.0,0.0,,
+Suzuki,Wagon R FZ,Automatic,Petrol,2020,7330000.0,0.0,,
+Suzuki,Wagon R FZ,Automatic,Petrol,2021,7670000.0,0.0,,
+Suzuki,Wagon R FZ,Automatic,Petrol,2022,8010000.0,0.0,,
+Suzuki,Wagon R FZ,Automatic,Petrol,2023,8350000.0,1.0,2014.0,2024.0
+Suzuki,Wagon R FZ,Automatic,Petrol,2024,8950000.0,1.0,2014.0,2024.0
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2014,5700000.0,3.0,2014.0,2024.0
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2015,5857500.0,2.0,2014.0,2024.0
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2016,6523750.75,0.0,,
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2017,7190001.5,4.0,2014.0,2024.0
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2018,7490000.0,3.0,2014.0,2024.0
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2019,7750000.0,0.0,,
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2020,8010000.0,0.0,,
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2021,8270000.0,0.0,,
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2022,8530000.0,0.0,,
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2023,8790000.0,0.0,,
+Suzuki,Wagon R Stingray,Automatic,Hybrid,2024,9050000.0,2.0,2014.0,2024.0
+Suzuki,Wagon R Stingray,Automatic,Petrol,2014,5990000.0,1.0,2014.0,2018.0
+Suzuki,Wagon R Stingray,Automatic,Petrol,2015,6500000.0,1.0,2014.0,2018.0
+Suzuki,Wagon R Stingray,Automatic,Petrol,2016,5925000.0,2.0,2014.0,2018.0
+Suzuki,Wagon R Stingray,Automatic,Petrol,2017,6537500.0,0.0,,
+Suzuki,Wagon R Stingray,Automatic,Petrol,2018,7150000.0,1.0,2014.0,2018.0
+Suzuki,XBee,Automatic,Hybrid,2018,8762500.0,2.0,2018.0,2024.0
+Suzuki,XBee,Automatic,Hybrid,2019,9110000.0,0.0,,
+Suzuki,XBee,Automatic,Hybrid,2020,9457500.0,0.0,,
+Suzuki,XBee,Automatic,Hybrid,2021,9805000.0,0.0,,
+Suzuki,XBee,Automatic,Hybrid,2022,10152500.0,0.0,,
+Suzuki,XBee,Automatic,Hybrid,2023,10500000.0,4.0,2018.0,2024.0
+Suzuki,XBee,Automatic,Hybrid,2024,12000000.0,2.0,2018.0,2024.0
+Suzuki,XBee,Automatic,Petrol,2018,8975000.0,2.0,2018.0,2023.0
+Suzuki,XBee,Automatic,Petrol,2019,9680000.0,0.0,,
+Suzuki,XBee,Automatic,Petrol,2020,10385000.0,0.0,,
+Suzuki,XBee,Automatic,Petrol,2021,11090000.0,0.0,,
+Suzuki,XBee,Automatic,Petrol,2022,11795000.0,0.0,,
+Suzuki,XBee,Automatic,Petrol,2023,12500000.0,1.0,2018.0,2023.0
+Toyota,Allion,Automatic,Diesel,2016,14750000.0,1.0,2016.0,2016.0
+Toyota,Allion,Automatic,Petrol,2002,7300000.0,2.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2003,7500000.0,3.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2004,7170000.0,2.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2005,7707500.0,0.0,,
+Toyota,Allion,Automatic,Petrol,2006,8245000.0,2.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2007,8675000.0,4.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2008,9275000.0,0.0,,
+Toyota,Allion,Automatic,Petrol,2009,9875000.0,1.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2010,10075000.0,2.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2011,10025000.0,2.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2012,10375000.0,1.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2013,12095000.0,4.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2014,13513333.333333334,0.0,,
+Toyota,Allion,Automatic,Petrol,2015,14931666.666666666,0.0,,
+Toyota,Allion,Automatic,Petrol,2016,16350000.0,2.0,2002.0,2018.0
+Toyota,Allion,Automatic,Petrol,2017,16312500.0,0.0,,
+Toyota,Allion,Automatic,Petrol,2018,16275000.0,4.0,2002.0,2018.0
+Toyota,Aqua,Automatic,Hybrid,2011,8500000.0,1.0,2011.0,2024.0
+Toyota,Aqua,Automatic,Hybrid,2012,7700000.0,4.0,2011.0,2024.0
+Toyota,Aqua,Automatic,Hybrid,2013,7890001.0,15.0,2011.0,2024.0
+Toyota,Aqua,Automatic,Hybrid,2014,8490000.0,7.0,2011.0,2024.0
+Toyota,Aqua,Automatic,Hybrid,2015,9450000.0,9.0,2011.0,2024.0
+Toyota,Aqua,Automatic,Hybrid,2016,9587500.0,2.0,2011.0,2024.0
+Toyota,Aqua,Automatic,Hybrid,2017,10245312.5,0.0,,
+Toyota,Aqua,Automatic,Hybrid,2018,10903125.0,0.0,,
+Toyota,Aqua,Automatic,Hybrid,2019,11560937.5,0.0,,
+Toyota,Aqua,Automatic,Hybrid,2020,12218750.0,0.0,,
+Toyota,Aqua,Automatic,Hybrid,2021,12876562.5,0.0,,
+Toyota,Aqua,Automatic,Hybrid,2022,13534375.0,0.0,,
+Toyota,Aqua,Automatic,Hybrid,2023,14192187.5,0.0,,
+Toyota,Aqua,Automatic,Hybrid,2024,14850000.0,4.0,2011.0,2024.0
+Toyota,Aqua,Automatic,Petrol,2012,7275000.0,2.0,2012.0,2017.0
+Toyota,Aqua,Automatic,Petrol,2013,7950000.0,2.0,2012.0,2017.0
+Toyota,Aqua,Automatic,Petrol,2014,8075000.0,8.0,2012.0,2017.0
+Toyota,Aqua,Automatic,Petrol,2015,9337500.0,2.0,2012.0,2017.0
+Toyota,Aqua,Automatic,Petrol,2016,10418750.0,0.0,,
+Toyota,Aqua,Automatic,Petrol,2017,11500000.0,1.0,2012.0,2017.0
+Toyota,Axio,Automatic,Hybrid,2012,9890000.0,1.0,2012.0,2024.0
+Toyota,Axio,Automatic,Hybrid,2013,9300000.0,2.0,2012.0,2024.0
+Toyota,Axio,Automatic,Hybrid,2014,9700000.0,7.0,2012.0,2024.0
+Toyota,Axio,Automatic,Hybrid,2015,11200000.0,11.0,2012.0,2024.0
+Toyota,Axio,Automatic,Hybrid,2016,12045000.0,6.0,2012.0,2024.0
+Toyota,Axio,Automatic,Hybrid,2017,13745000.0,10.0,2012.0,2024.0
+Toyota,Axio,Automatic,Hybrid,2018,13695000.0,2.0,2012.0,2024.0
+Toyota,Axio,Automatic,Hybrid,2019,15875000.0,1.0,2012.0,2024.0
+Toyota,Axio,Automatic,Hybrid,2020,15953750.0,0.0,,
+Toyota,Axio,Automatic,Hybrid,2021,16032500.0,0.0,,
+Toyota,Axio,Automatic,Hybrid,2022,16111250.0,0.0,,
+Toyota,Axio,Automatic,Hybrid,2023,16190000.0,1.0,2012.0,2024.0
+Toyota,Axio,Automatic,Hybrid,2024,16190000.0,1.0,2012.0,2024.0
+Toyota,Axio,Automatic,Petrol,2007,7300000.0,7.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2008,7650000.0,3.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2009,8450000.0,1.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2010,8120000.0,2.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2011,8310000.0,0.0,,
+Toyota,Axio,Automatic,Petrol,2012,8500000.0,1.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2013,9800000.0,1.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2014,12000000.0,1.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2015,10850000.0,2.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2016,12500000.0,2.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2017,12000000.0,1.0,2007.0,2019.0
+Toyota,Axio,Automatic,Petrol,2018,12650000.0,0.0,,
+Toyota,Axio,Automatic,Petrol,2019,13300000.0,2.0,2007.0,2019.0
+Toyota,CHR,Automatic,Hybrid,2017,16800000.0,1.0,2017.0,2022.0
+Toyota,CHR,Automatic,Hybrid,2018,16580000.0,0.0,,
+Toyota,CHR,Automatic,Hybrid,2019,16360000.0,0.0,,
+Toyota,CHR,Automatic,Hybrid,2020,16140000.0,0.0,,
+Toyota,CHR,Automatic,Hybrid,2021,15920000.0,0.0,,
+Toyota,CHR,Automatic,Hybrid,2022,15700000.0,1.0,2017.0,2022.0
+Toyota,CHR,Automatic,Petrol,2016,13399999.0,1.0,2016.0,2023.0
+Toyota,CHR,Automatic,Petrol,2017,14400000.0,11.0,2016.0,2023.0
+Toyota,CHR,Automatic,Petrol,2018,15497500.0,20.0,2016.0,2023.0
+Toyota,CHR,Automatic,Petrol,2019,16200000.0,4.0,2016.0,2023.0
+Toyota,CHR,Automatic,Petrol,2020,14000000.0,1.0,2016.0,2023.0
+Toyota,CHR,Automatic,Petrol,2021,15250000.0,0.0,,
+Toyota,CHR,Automatic,Petrol,2022,16500000.0,0.0,,
+Toyota,CHR,Automatic,Petrol,2023,17750000.0,6.0,2016.0,2023.0
+Toyota,CHR,Manual,Petrol,2020,16500000.0,1.0,2020.0,2020.0
+Toyota,CHR,Tiptronic,Petrol,2017,13325000.0,2.0,2017.0,2023.0
+Toyota,CHR,Tiptronic,Petrol,2018,15112500.0,0.0,,
+Toyota,CHR,Tiptronic,Petrol,2019,16900000.0,1.0,2017.0,2023.0
+Toyota,CHR,Tiptronic,Petrol,2020,17887500.0,0.0,,
+Toyota,CHR,Tiptronic,Petrol,2021,18875000.0,0.0,,
+Toyota,CHR,Tiptronic,Petrol,2022,19862500.0,0.0,,
+Toyota,CHR,Tiptronic,Petrol,2023,20850000.0,1.0,2017.0,2023.0
+Toyota,Corolla,Automatic,Diesel,1997,3100000.0,3.0,1997.0,2000.0
+Toyota,Corolla,Automatic,Diesel,1998,3016666.6666666665,0.0,,
+Toyota,Corolla,Automatic,Diesel,1999,2933333.3333333335,0.0,,
+Toyota,Corolla,Automatic,Diesel,2000,2850000.0,1.0,1997.0,2000.0
+Toyota,Corolla,Automatic,Hybrid,2023,28990000.0,1.0,2023.0,2025.0
+Toyota,Corolla,Automatic,Hybrid,2024,26950000.0,1.0,2023.0,2025.0
+Toyota,Corolla,Automatic,Hybrid,2025,26800000.0,1.0,2023.0,2025.0
+Toyota,Corolla,Automatic,Petrol,1996,2800000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,1997,3537500.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,1998,4275000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,1999,4290000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2000,6000000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2001,5945000.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2002,5890000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2003,6600000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2004,6025000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2005,6150000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2006,6475000.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2007,6800000.0,3.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2008,7595000.0,2.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2009,7990000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2010,8126250.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2011,8262500.0,4.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2012,9043750.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2013,9825000.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2014,10606250.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2015,11387500.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2016,12168750.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2017,12950000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2018,15800000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2019,15650000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Automatic,Petrol,2020,16737500.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2021,17825000.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2022,18912500.0,0.0,,
+Toyota,Corolla,Automatic,Petrol,2023,20000000.0,1.0,1996.0,2023.0
+Toyota,Corolla,Manual,Diesel,1996,2250000.0,1.0,1996.0,1999.0
+Toyota,Corolla,Manual,Diesel,1997,2750000.0,2.0,1996.0,1999.0
+Toyota,Corolla,Manual,Diesel,1998,2800000.0,1.0,1996.0,1999.0
+Toyota,Corolla,Manual,Diesel,1999,3000000.0,2.0,1996.0,1999.0
+Toyota,Corolla,Manual,Petrol,1995,1400000.0,1.0,1995.0,2024.0
+Toyota,Corolla,Manual,Petrol,1996,2000000.0,0.0,,
+Toyota,Corolla,Manual,Petrol,1997,2600000.0,1.0,1995.0,2024.0
+Toyota,Corolla,Manual,Petrol,1998,1625000.0,0.0,,
+Toyota,Corolla,Manual,Petrol,1999,650000.0,1.0,1995.0,2024.0
+Toyota,Corolla,Manual,Petrol,2000,2800000.0,1.0,1995.0,2024.0
+Toyota,Corolla,Manual,Petrol,2001,3812500.0,0.0,,
+Toyota,Corolla,Manual,Petrol,2002,4825000.0,0.0,,
+Toyota,Corolla,Manual,Petrol,2003,5837500.0,0.0,,
+Toyota,Corolla,Manual,Petrol,2004,6850000.0,2.0,1995.0,2024.0
+Toyota,Corolla,Manual,Petrol,2005,6366666.666666667,0.0,,
+Toyota,Corolla,Manual,Petrol,2006,5883333.333333333,0.0,,
+Toyota,Corolla,Manual,Petrol,2007,5400000.0,1.0,1995.0,2024.0
+Toyota,Corolla,Manual,Petrol,2008,7141176.470588235,0.0,,
+Toyota,Corolla,Manual,Petrol,2009,8882352.94117647,0.0,,
+Toyota,Corolla,Manual,Petrol,2010,10623529.411764706,0.0,,
+Toyota,Corolla,Manual,Petrol,2011,12364705.88235294,0.0,,
+Toyota,Corolla,Manual,Petrol,2012,14105882.352941176,0.0,,
+Toyota,Corolla,Manual,Petrol,2013,15847058.823529411,0.0,,
+Toyota,Corolla,Manual,Petrol,2014,17588235.294117644,0.0,,
+Toyota,Corolla,Manual,Petrol,2015,19329411.76470588,0.0,,
+Toyota,Corolla,Manual,Petrol,2016,21070588.23529412,0.0,,
+Toyota,Corolla,Manual,Petrol,2017,22811764.70588235,0.0,,
+Toyota,Corolla,Manual,Petrol,2018,24552941.176470585,0.0,,
+Toyota,Corolla,Manual,Petrol,2019,26294117.647058822,0.0,,
+Toyota,Corolla,Manual,Petrol,2020,28035294.11764706,0.0,,
+Toyota,Corolla,Manual,Petrol,2021,29776470.588235293,0.0,,
+Toyota,Corolla,Manual,Petrol,2022,31517647.058823526,0.0,,
+Toyota,Corolla,Manual,Petrol,2023,33258823.529411763,0.0,,
+Toyota,Corolla,Manual,Petrol,2024,35000000.0,1.0,1995.0,2024.0
+Toyota,Harrier,Automatic,Hybrid,2008,9775000.0,1.0,2008.0,2023.0
+Toyota,Harrier,Automatic,Hybrid,2009,11770833.333333334,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2010,13766666.666666666,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2011,15762500.0,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2012,17758333.333333332,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2013,19754166.666666664,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2014,21750000.0,2.0,2008.0,2023.0
+Toyota,Harrier,Automatic,Hybrid,2015,21990000.0,3.0,2008.0,2023.0
+Toyota,Harrier,Automatic,Hybrid,2016,24866250.0,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2017,27742500.0,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2018,30618750.0,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2019,33495000.0,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2020,36371250.0,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2021,39247500.0,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2022,42123750.0,0.0,,
+Toyota,Harrier,Automatic,Hybrid,2023,45000000.0,1.0,2008.0,2023.0
+Toyota,Harrier,Automatic,Petrol,2008,11695000.0,1.0,2008.0,2024.0
+Toyota,Harrier,Automatic,Petrol,2009,13079166.666666666,0.0,,
+Toyota,Harrier,Automatic,Petrol,2010,14463333.333333334,0.0,,
+Toyota,Harrier,Automatic,Petrol,2011,15847500.0,0.0,,
+Toyota,Harrier,Automatic,Petrol,2012,17231666.666666668,0.0,,
+Toyota,Harrier,Automatic,Petrol,2013,18615833.333333336,0.0,,
+Toyota,Harrier,Automatic,Petrol,2014,20000000.0,1.0,2008.0,2024.0
+Toyota,Harrier,Automatic,Petrol,2015,28450000.0,2.0,2008.0,2024.0
+Toyota,Harrier,Automatic,Petrol,2016,24500000.0,1.0,2008.0,2024.0
+Toyota,Harrier,Automatic,Petrol,2017,26287500.0,6.0,2008.0,2024.0
+Toyota,Harrier,Automatic,Petrol,2018,31593750.0,0.0,,
+Toyota,Harrier,Automatic,Petrol,2019,36900000.0,1.0,2008.0,2024.0
+Toyota,Harrier,Automatic,Petrol,2020,38300000.0,0.0,,
+Toyota,Harrier,Automatic,Petrol,2021,39700000.0,0.0,,
+Toyota,Harrier,Automatic,Petrol,2022,41100000.0,0.0,,
+Toyota,Harrier,Automatic,Petrol,2023,42500000.0,3.0,2008.0,2024.0
+Toyota,Harrier,Automatic,Petrol,2024,37900000.0,2.0,2008.0,2024.0
+Toyota,Harrier,Tiptronic,Petrol,2007,9600000.0,1.0,2007.0,2017.0
+Toyota,Harrier,Tiptronic,Petrol,2008,9800000.0,1.0,2007.0,2017.0
+Toyota,Harrier,Tiptronic,Petrol,2009,11677777.777777778,0.0,,
+Toyota,Harrier,Tiptronic,Petrol,2010,13555555.555555556,0.0,,
+Toyota,Harrier,Tiptronic,Petrol,2011,15433333.333333332,0.0,,
+Toyota,Harrier,Tiptronic,Petrol,2012,17311111.111111112,0.0,,
+Toyota,Harrier,Tiptronic,Petrol,2013,19188888.888888888,0.0,,
+Toyota,Harrier,Tiptronic,Petrol,2014,21066666.666666664,0.0,,
+Toyota,Harrier,Tiptronic,Petrol,2015,22944444.444444444,0.0,,
+Toyota,Harrier,Tiptronic,Petrol,2016,24822222.222222224,0.0,,
+Toyota,Harrier,Tiptronic,Petrol,2017,26700000.0,1.0,2007.0,2017.0
+Toyota,Hilux,Automatic,Diesel,2001,8200000.0,1.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2002,9260000.0,0.0,,
+Toyota,Hilux,Automatic,Diesel,2003,10320000.0,0.0,,
+Toyota,Hilux,Automatic,Diesel,2004,11380000.0,0.0,,
+Toyota,Hilux,Automatic,Diesel,2005,12440000.0,0.0,,
+Toyota,Hilux,Automatic,Diesel,2006,13500000.0,1.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2007,11875000.0,2.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2008,12250000.0,1.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2009,13125000.0,0.0,,
+Toyota,Hilux,Automatic,Diesel,2010,14000000.0,1.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2011,15250000.0,0.0,,
+Toyota,Hilux,Automatic,Diesel,2012,16500000.0,1.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2013,14500000.0,1.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2014,15500000.0,0.0,,
+Toyota,Hilux,Automatic,Diesel,2015,16500000.0,1.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2016,14800000.0,1.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2017,18850000.0,0.0,,
+Toyota,Hilux,Automatic,Diesel,2018,22900000.0,5.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2019,22800000.0,1.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2020,22500000.0,3.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2021,23243750.0,0.0,,
+Toyota,Hilux,Automatic,Diesel,2022,23987500.0,2.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2023,25950000.0,8.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2024,29875000.0,26.0,2001.0,2025.0
+Toyota,Hilux,Automatic,Diesel,2025,28400000.0,16.0,2001.0,2025.0
+Toyota,Hilux,Manual,Diesel,1998,6900000.0,1.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,1999,7200000.0,1.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2000,8133333.333333333,0.0,,
+Toyota,Hilux,Manual,Diesel,2001,9066666.666666666,0.0,,
+Toyota,Hilux,Manual,Diesel,2002,10000000.0,1.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2003,6895000.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2004,3790000.0,1.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2005,7232500.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2006,10675000.0,2.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2007,11500000.0,7.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2008,9712500.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2009,7925000.0,4.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2010,8525000.0,4.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2011,14125000.0,2.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2012,13491666.666666666,0.0,,
+Toyota,Hilux,Manual,Diesel,2013,12858333.333333334,0.0,,
+Toyota,Hilux,Manual,Diesel,2014,12225000.0,2.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2015,14483333.333333334,0.0,,
+Toyota,Hilux,Manual,Diesel,2016,16741666.666666668,0.0,,
+Toyota,Hilux,Manual,Diesel,2017,19000000.0,1.0,1998.0,2025.0
+Toyota,Hilux,Manual,Diesel,2018,18384375.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2019,17768750.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2020,17153125.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2021,16537500.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2022,15921875.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2023,15306250.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2024,14690625.0,0.0,,
+Toyota,Hilux,Manual,Diesel,2025,14075000.0,4.0,1998.0,2025.0
+Toyota,Hilux,Tiptronic,Diesel,2020,26000000.0,1.0,2020.0,2025.0
+Toyota,Hilux,Tiptronic,Diesel,2021,26266666.666666668,0.0,,
+Toyota,Hilux,Tiptronic,Diesel,2022,26533333.333333332,0.0,,
+Toyota,Hilux,Tiptronic,Diesel,2023,26800000.0,1.0,2020.0,2025.0
+Toyota,Hilux,Tiptronic,Diesel,2024,30570000.0,6.0,2020.0,2025.0
+Toyota,Hilux,Tiptronic,Diesel,2025,28475000.0,3.0,2020.0,2025.0
+Toyota,Hilux,Tiptronic,Petrol,2023,25800000.0,1.0,2023.0,2023.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,1995,24000000.0,1.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,1996,13000000.0,1.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,1997,13900000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,1998,14800000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,1999,15700000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2000,16600000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2001,17500000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2002,18400000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2003,19300000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2004,20200000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2005,21100000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2006,22000000.0,1.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2007,21250000.0,1.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2008,22000000.0,1.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2009,25250000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2010,28500000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2011,31750000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2012,35000000.0,4.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2013,38000000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2014,41000000.0,5.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2015,47250000.0,6.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2016,46500000.0,1.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2017,46000000.0,3.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2018,25000000.0,1.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2019,34333333.333333336,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2020,43666666.66666667,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2021,53000000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2022,62333333.333333336,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2023,71666666.66666667,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Diesel,2024,81000000.0,8.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Diesel,2025,77000000.0,2.0,1995.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2001,11200000.0,1.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2002,14850000.0,1.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2003,16500000.0,3.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2004,16000000.0,2.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2005,16916666.666666668,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Petrol,2006,17833333.333333332,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Petrol,2007,18750000.0,1.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2008,19500000.0,6.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2009,27850000.0,1.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2010,30200000.0,8.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2011,31000000.0,1.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2012,32000000.0,1.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2013,36000000.0,2.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2014,39500000.0,3.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2015,42500000.0,14.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2016,42500000.0,3.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2017,46850000.0,12.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2018,44750000.0,2.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2019,56125000.0,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Petrol,2020,67500000.0,1.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2021,64083333.333333336,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Petrol,2022,60666666.666666664,0.0,,
+Toyota,Land Cruiser Prado,Automatic,Petrol,2023,57250000.0,18.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2024,67500000.0,28.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Automatic,Petrol,2025,67750000.0,8.0,2001.0,2025.0
+Toyota,Land Cruiser Prado,Manual,Diesel,1995,17500000.0,1.0,1995.0,2018.0
+Toyota,Land Cruiser Prado,Manual,Diesel,1996,13750000.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,1997,10000000.0,1.0,1995.0,2018.0
+Toyota,Land Cruiser Prado,Manual,Diesel,1998,11333333.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,1999,12666666.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2000,13999999.0,1.0,1995.0,2018.0
+Toyota,Land Cruiser Prado,Manual,Diesel,2001,14835713.42857143,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2002,15671427.857142856,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2003,16507142.285714285,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2004,17342856.714285713,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2005,18178571.14285714,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2006,19014285.57142857,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2007,19850000.0,1.0,1995.0,2018.0
+Toyota,Land Cruiser Prado,Manual,Diesel,2008,19925000.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2009,20000000.0,1.0,1995.0,2018.0
+Toyota,Land Cruiser Prado,Manual,Diesel,2010,24500000.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2011,29000000.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2012,33500000.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2013,38000000.0,1.0,1995.0,2018.0
+Toyota,Land Cruiser Prado,Manual,Diesel,2014,40750000.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2015,43500000.0,2.0,1995.0,2018.0
+Toyota,Land Cruiser Prado,Manual,Diesel,2016,45000000.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2017,46500000.0,0.0,,
+Toyota,Land Cruiser Prado,Manual,Diesel,2018,48000000.0,1.0,1995.0,2018.0
+Toyota,Land Cruiser Prado,Manual,Petrol,2003,14900000.0,1.0,2003.0,2003.0
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2012,36500000.0,1.0,2012.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2013,41700000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2014,46900000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2015,52100000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2016,57300000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2017,62500000.0,1.0,2012.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2018,64333333.333333336,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2019,66166666.666666664,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2020,68000000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2021,69833333.33333333,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2022,71666666.66666667,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2023,73500000.0,1.0,2012.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2024,81500000.0,1.0,2012.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Diesel,2025,85000000.0,1.0,2012.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2010,48000000.0,1.0,2010.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2011,47200000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2012,46400000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2013,45600000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2014,44800000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2015,44000000.0,1.0,2010.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2016,46000000.0,1.0,2010.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2017,49400000.0,2.0,2010.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2018,51266666.666666664,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2019,53133333.333333336,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2020,55000000.0,1.0,2010.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2021,57250000.0,1.0,2010.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2022,56125000.0,0.0,,
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2023,55000000.0,5.0,2010.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2024,70000000.0,7.0,2010.0,2025.0
+Toyota,Land Cruiser Prado,Tiptronic,Petrol,2025,62000000.0,1.0,2010.0,2025.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,1995,18500000.0,1.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,1996,20500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,1997,22500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,1998,24500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,1999,26500000.0,1.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2000,27675000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2001,28850000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2002,30025000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2003,31200000.0,1.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2004,34600000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2005,38000000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2006,41400000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2007,44800000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2008,48200000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2009,51600000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2010,55000000.0,1.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2011,62550000.0,3.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2012,62000000.0,1.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2013,57750000.0,4.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2014,64250000.0,2.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2015,92045000.0,2.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2016,79500000.0,7.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2017,105000000.0,1.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2018,110000000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2019,115000000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2020,120000000.0,1.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2021,114966666.66666667,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2022,109933333.33333333,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2023,104900000.0,2.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Diesel,2024,115000000.0,7.0,1995.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2003,21700000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2004,21000000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2005,27183333.333333332,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2006,33366666.666666664,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2007,39550000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2008,42500000.0,3.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2009,50750000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2010,59000000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2011,52500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2012,46000000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2013,51500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2014,57000000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2015,62500000.0,3.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2016,85000000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2017,70500000.0,2.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2018,75208333.33333333,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2019,79916666.66666667,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2020,84625000.0,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2021,89333333.33333333,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2022,94041666.66666666,0.0,,
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2023,98750000.0,10.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Automatic,Petrol,2024,99500000.0,16.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Manual,Diesel,1999,25000000.0,1.0,1999.0,2017.0
+Toyota,Land Cruiser Sahara,Manual,Diesel,2000,22500000.0,1.0,1999.0,2017.0
+Toyota,Land Cruiser Sahara,Manual,Diesel,2001,22500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2002,22500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2003,22500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2004,22500000.0,1.0,1999.0,2017.0
+Toyota,Land Cruiser Sahara,Manual,Diesel,2005,24370000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2006,26240000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2007,28110000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2008,29980000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2009,31850000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2010,33720000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2011,35590000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2012,37460000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2013,39330000.0,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2014,41200000.0,1.0,1999.0,2017.0
+Toyota,Land Cruiser Sahara,Manual,Diesel,2015,51966666.666666664,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2016,62733333.33333333,0.0,,
+Toyota,Land Cruiser Sahara,Manual,Diesel,2017,73500000.0,1.0,1999.0,2017.0
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2011,57500000.0,1.0,2011.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2012,57500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2013,57500000.0,1.0,2011.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2014,65000000.0,1.0,2011.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2015,71875000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2016,78750000.0,2.0,2011.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2017,82656250.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2018,86562500.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2019,90468750.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2020,94375000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2021,98281250.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2022,102187500.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2023,106093750.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Diesel,2024,110000000.0,3.0,2011.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2003,22000000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2004,26300000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2005,30600000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2006,34900000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2007,39200000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2008,43500000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2009,44000000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2010,44500000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2011,52500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2012,60500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2013,68500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2014,76500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2015,84500000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2016,95000000.0,1.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2017,95500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2018,96000000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2019,96500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2020,97000000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2021,97500000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2022,98000000.0,0.0,,
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2023,98500000.0,3.0,2003.0,2024.0
+Toyota,Land Cruiser Sahara,Tiptronic,Petrol,2024,99500000.0,9.0,2003.0,2024.0
+Toyota,Other Model,Automatic,Diesel,1996,2700000.0,1.0,1996.0,2024.0
+Toyota,Other Model,Automatic,Diesel,1997,6951851.851851852,0.0,,
+Toyota,Other Model,Automatic,Diesel,1998,11203703.703703703,0.0,,
+Toyota,Other Model,Automatic,Diesel,1999,15455555.555555556,0.0,,
+Toyota,Other Model,Automatic,Diesel,2000,19707407.407407407,0.0,,
+Toyota,Other Model,Automatic,Diesel,2001,23959259.259259257,0.0,,
+Toyota,Other Model,Automatic,Diesel,2002,28211111.111111112,0.0,,
+Toyota,Other Model,Automatic,Diesel,2003,32462962.962962963,0.0,,
+Toyota,Other Model,Automatic,Diesel,2004,36714814.81481481,0.0,,
+Toyota,Other Model,Automatic,Diesel,2005,40966666.666666664,0.0,,
+Toyota,Other Model,Automatic,Diesel,2006,45218518.518518515,0.0,,
+Toyota,Other Model,Automatic,Diesel,2007,49470370.370370366,0.0,,
+Toyota,Other Model,Automatic,Diesel,2008,53722222.222222224,0.0,,
+Toyota,Other Model,Automatic,Diesel,2009,57974074.074074075,0.0,,
+Toyota,Other Model,Automatic,Diesel,2010,62225925.925925925,0.0,,
+Toyota,Other Model,Automatic,Diesel,2011,66477777.777777776,0.0,,
+Toyota,Other Model,Automatic,Diesel,2012,70729629.62962963,0.0,,
+Toyota,Other Model,Automatic,Diesel,2013,74981481.48148148,0.0,,
+Toyota,Other Model,Automatic,Diesel,2014,79233333.33333333,0.0,,
+Toyota,Other Model,Automatic,Diesel,2015,83485185.18518518,0.0,,
+Toyota,Other Model,Automatic,Diesel,2016,87737037.03703703,0.0,,
+Toyota,Other Model,Automatic,Diesel,2017,91988888.88888888,0.0,,
+Toyota,Other Model,Automatic,Diesel,2018,96240740.74074073,0.0,,
+Toyota,Other Model,Automatic,Diesel,2019,100492592.59259258,0.0,,
+Toyota,Other Model,Automatic,Diesel,2020,104744444.44444445,0.0,,
+Toyota,Other Model,Automatic,Diesel,2021,108996296.2962963,0.0,,
+Toyota,Other Model,Automatic,Diesel,2022,113248148.14814815,0.0,,
+Toyota,Other Model,Automatic,Diesel,2023,117500000.0,1.0,1996.0,2024.0
+Toyota,Other Model,Automatic,Diesel,2024,118000000.0,2.0,1996.0,2024.0
+Toyota,Other Model,Automatic,Hybrid,2023,18950000.0,1.0,2023.0,2024.0
+Toyota,Other Model,Automatic,Hybrid,2024,17375000.0,2.0,2023.0,2024.0
+Toyota,Other Model,Automatic,Petrol,1999,4500000.0,1.0,1999.0,2025.0
+Toyota,Other Model,Automatic,Petrol,2000,3900000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2001,3300000.0,1.0,1999.0,2025.0
+Toyota,Other Model,Automatic,Petrol,2002,7500000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2003,11700000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2004,15900000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2005,20100000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2006,24300000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2007,28500000.0,1.0,1999.0,2025.0
+Toyota,Other Model,Automatic,Petrol,2008,28500000.0,1.0,1999.0,2025.0
+Toyota,Other Model,Automatic,Petrol,2009,33566666.666666664,0.0,,
+Toyota,Other Model,Automatic,Petrol,2010,38633333.333333336,0.0,,
+Toyota,Other Model,Automatic,Petrol,2011,43700000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2012,48766666.66666667,0.0,,
+Toyota,Other Model,Automatic,Petrol,2013,53833333.333333336,0.0,,
+Toyota,Other Model,Automatic,Petrol,2014,58900000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2015,63966666.66666667,0.0,,
+Toyota,Other Model,Automatic,Petrol,2016,69033333.33333334,0.0,,
+Toyota,Other Model,Automatic,Petrol,2017,74100000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2018,79166666.66666667,0.0,,
+Toyota,Other Model,Automatic,Petrol,2019,84233333.33333334,0.0,,
+Toyota,Other Model,Automatic,Petrol,2020,89300000.0,0.0,,
+Toyota,Other Model,Automatic,Petrol,2021,94366666.66666667,0.0,,
+Toyota,Other Model,Automatic,Petrol,2022,99433333.33333334,0.0,,
+Toyota,Other Model,Automatic,Petrol,2023,104500000.0,1.0,1999.0,2025.0
+Toyota,Other Model,Automatic,Petrol,2024,108000000.0,5.0,1999.0,2025.0
+Toyota,Other Model,Automatic,Petrol,2025,115000000.0,1.0,1999.0,2025.0
+Toyota,Other Model,Manual,Diesel,1998,5600000.0,1.0,1998.0,2003.0
+Toyota,Other Model,Manual,Diesel,1999,8880000.0,0.0,,
+Toyota,Other Model,Manual,Diesel,2000,12160000.0,0.0,,
+Toyota,Other Model,Manual,Diesel,2001,15440000.0,0.0,,
+Toyota,Other Model,Manual,Diesel,2002,18720000.0,0.0,,
+Toyota,Other Model,Manual,Diesel,2003,22000000.0,1.0,1998.0,2003.0
+Toyota,Other Model,Tiptronic,Petrol,2025,24900000.0,1.0,2025.0,2025.0
+Toyota,Passo,Automatic,Petrol,2007,4682500.0,4.0,2007.0,2023.0
+Toyota,Passo,Automatic,Petrol,2008,4995000.0,1.0,2007.0,2023.0
+Toyota,Passo,Automatic,Petrol,2009,4850000.0,1.0,2007.0,2023.0
+Toyota,Passo,Automatic,Petrol,2010,5675000.0,1.0,2007.0,2023.0
+Toyota,Passo,Automatic,Petrol,2011,5977500.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2012,6280000.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2013,6582500.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2014,6885000.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2015,7187500.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2016,7490000.0,3.0,2007.0,2023.0
+Toyota,Passo,Automatic,Petrol,2017,7490000.0,1.0,2007.0,2023.0
+Toyota,Passo,Automatic,Petrol,2018,7731250.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2019,7972500.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2020,8213750.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2021,8455000.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2022,8696250.0,0.0,,
+Toyota,Passo,Automatic,Petrol,2023,8937500.0,8.0,2007.0,2023.0
+Toyota,Premio,Automatic,Petrol,2007,9625000.0,4.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2008,9800000.0,1.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2009,9837500.0,0.0,,
+Toyota,Premio,Automatic,Petrol,2010,9875000.0,4.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2011,10390000.0,1.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2012,13087500.0,2.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2013,13500000.0,9.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2014,13600000.0,2.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2015,12500000.0,1.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2016,15350000.0,6.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2017,16250000.0,12.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2018,17375000.0,8.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2019,18875000.0,7.0,2007.0,2020.0
+Toyota,Premio,Automatic,Petrol,2020,19125000.0,2.0,2007.0,2020.0
+Toyota,Prius,Automatic,Hybrid,2010,10500000.0,1.0,2010.0,2025.0
+Toyota,Prius,Automatic,Hybrid,2011,9375000.0,1.0,2010.0,2025.0
+Toyota,Prius,Automatic,Hybrid,2012,9675000.0,1.0,2010.0,2025.0
+Toyota,Prius,Automatic,Hybrid,2013,11000000.0,4.0,2010.0,2025.0
+Toyota,Prius,Automatic,Hybrid,2014,11375000.0,4.0,2010.0,2025.0
+Toyota,Prius,Automatic,Hybrid,2015,13125000.0,2.0,2010.0,2025.0
+Toyota,Prius,Automatic,Hybrid,2016,15250000.0,4.0,2010.0,2025.0
+Toyota,Prius,Automatic,Hybrid,2017,16956250.0,0.0,,
+Toyota,Prius,Automatic,Hybrid,2018,18662500.0,0.0,,
+Toyota,Prius,Automatic,Hybrid,2019,20368750.0,0.0,,
+Toyota,Prius,Automatic,Hybrid,2020,22075000.0,0.0,,
+Toyota,Prius,Automatic,Hybrid,2021,23781250.0,0.0,,
+Toyota,Prius,Automatic,Hybrid,2022,25487500.0,0.0,,
+Toyota,Prius,Automatic,Hybrid,2023,27193750.0,0.0,,
+Toyota,Prius,Automatic,Hybrid,2024,28900000.0,3.0,2010.0,2025.0
+Toyota,Prius,Automatic,Hybrid,2025,29800000.0,1.0,2010.0,2025.0
+Toyota,Prius,Automatic,Petrol,2009,12400000.0,1.0,2009.0,2016.0
+Toyota,Prius,Automatic,Petrol,2010,11556250.0,0.0,,
+Toyota,Prius,Automatic,Petrol,2011,10712500.0,2.0,2009.0,2016.0
+Toyota,Prius,Automatic,Petrol,2012,10281250.0,0.0,,
+Toyota,Prius,Automatic,Petrol,2013,9850000.0,1.0,2009.0,2016.0
+Toyota,Prius,Automatic,Petrol,2014,11000000.0,5.0,2009.0,2016.0
+Toyota,Prius,Automatic,Petrol,2015,12650000.0,1.0,2009.0,2016.0
+Toyota,Prius,Automatic,Petrol,2016,14995000.0,3.0,2009.0,2016.0
+Toyota,Raize,Automatic,Hybrid,2023,12700000.0,1.0,2023.0,2025.0
+Toyota,Raize,Automatic,Hybrid,2024,13472500.0,0.0,,
+Toyota,Raize,Automatic,Hybrid,2025,14245000.0,2.0,2023.0,2025.0
+Toyota,Raize,Automatic,Petrol,2020,14000000.0,1.0,2020.0,2025.0
+Toyota,Raize,Automatic,Petrol,2021,13500000.0,1.0,2020.0,2025.0
+Toyota,Raize,Automatic,Petrol,2022,14200000.0,1.0,2020.0,2025.0
+Toyota,Raize,Automatic,Petrol,2023,13742500.0,12.0,2020.0,2025.0
+Toyota,Raize,Automatic,Petrol,2024,13500000.0,6.0,2020.0,2025.0
+Toyota,Raize,Automatic,Petrol,2025,15000000.0,3.0,2020.0,2025.0
+Toyota,Raize,Tiptronic,Petrol,2023,13000000.0,1.0,2023.0,2023.0
+Toyota,Roomy,Automatic,Petrol,2018,8950000.0,1.0,2018.0,2023.0
+Toyota,Roomy,Automatic,Petrol,2019,9625000.0,0.0,,
+Toyota,Roomy,Automatic,Petrol,2020,10300000.0,0.0,,
+Toyota,Roomy,Automatic,Petrol,2021,10975000.0,0.0,,
+Toyota,Roomy,Automatic,Petrol,2022,11650000.0,2.0,2018.0,2023.0
+Toyota,Roomy,Automatic,Petrol,2023,10500000.0,10.0,2018.0,2023.0
+Toyota,Vitz,Automatic,Petrol,1999,3890000.0,1.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2000,4600000.0,1.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2001,4550000.0,0.0,,
+Toyota,Vitz,Automatic,Petrol,2002,4500000.0,1.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2003,4690000.0,0.0,,
+Toyota,Vitz,Automatic,Petrol,2004,4880000.0,0.0,,
+Toyota,Vitz,Automatic,Petrol,2005,5070000.0,0.0,,
+Toyota,Vitz,Automatic,Petrol,2006,5260000.0,0.0,,
+Toyota,Vitz,Automatic,Petrol,2007,5450000.0,10.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2008,5575000.0,7.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2009,6300000.0,1.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2010,5500000.0,1.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2011,5965000.0,0.0,,
+Toyota,Vitz,Automatic,Petrol,2012,6430000.0,0.0,,
+Toyota,Vitz,Automatic,Petrol,2013,6895000.0,2.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2014,7247500.0,0.0,,
+Toyota,Vitz,Automatic,Petrol,2015,7600000.0,11.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2016,7837500.0,16.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2017,8400000.0,9.0,1999.0,2018.0
+Toyota,Vitz,Automatic,Petrol,2018,8875000.0,11.0,1999.0,2018.0
+Toyota,Vitz,Manual,Petrol,2000,5675000.0,1.0,2000.0,2000.0
+Toyota,Voxy,Automatic,Hybrid,2014,18000000.0,4.0,2014.0,2025.0
+Toyota,Voxy,Automatic,Hybrid,2015,17500000.0,1.0,2014.0,2025.0
+Toyota,Voxy,Automatic,Hybrid,2016,18883333.333333332,0.0,,
+Toyota,Voxy,Automatic,Hybrid,2017,20266666.666666668,0.0,,
+Toyota,Voxy,Automatic,Hybrid,2018,21650000.0,0.0,,
+Toyota,Voxy,Automatic,Hybrid,2019,23033333.333333332,0.0,,
+Toyota,Voxy,Automatic,Hybrid,2020,24416666.666666664,0.0,,
+Toyota,Voxy,Automatic,Hybrid,2021,25800000.0,0.0,,
+Toyota,Voxy,Automatic,Hybrid,2022,27183333.333333332,0.0,,
+Toyota,Voxy,Automatic,Hybrid,2023,28566666.666666664,0.0,,
+Toyota,Voxy,Automatic,Hybrid,2024,29950000.0,5.0,2014.0,2025.0
+Toyota,Voxy,Automatic,Hybrid,2025,33950000.0,1.0,2014.0,2025.0
+Toyota,Voxy,Automatic,Petrol,2014,17950000.0,1.0,2014.0,2024.0
+Toyota,Voxy,Automatic,Petrol,2015,17637500.0,2.0,2014.0,2024.0
+Toyota,Voxy,Automatic,Petrol,2016,19000000.0,0.0,,
+Toyota,Voxy,Automatic,Petrol,2017,20362500.0,0.0,,
+Toyota,Voxy,Automatic,Petrol,2018,21725000.0,0.0,,
+Toyota,Voxy,Automatic,Petrol,2019,23087500.0,0.0,,
+Toyota,Voxy,Automatic,Petrol,2020,24450000.0,0.0,,
+Toyota,Voxy,Automatic,Petrol,2021,25812500.0,0.0,,
+Toyota,Voxy,Automatic,Petrol,2022,27175000.0,0.0,,
+Toyota,Voxy,Automatic,Petrol,2023,28537500.0,0.0,,
+Toyota,Voxy,Automatic,Petrol,2024,29900000.0,1.0,2014.0,2024.0
+Toyota,Yaris,Automatic,Hybrid,2022,12162500.0,2.0,2022.0,2025.0
+Toyota,Yaris,Automatic,Hybrid,2023,17900000.0,3.0,2022.0,2025.0
+Toyota,Yaris,Automatic,Hybrid,2024,16550000.0,5.0,2022.0,2025.0
+Toyota,Yaris,Automatic,Hybrid,2025,19000000.0,11.0,2022.0,2025.0
+Toyota,Yaris,Automatic,Petrol,2007,6725000.0,2.0,2007.0,2025.0
+Toyota,Yaris,Automatic,Petrol,2008,7040000.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2009,7355000.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2010,7670000.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2011,7985000.0,1.0,2007.0,2025.0
+Toyota,Yaris,Automatic,Petrol,2012,8605625.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2013,9226250.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2014,9846875.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2015,10467500.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2016,11088125.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2017,11708750.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2018,12329375.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2019,12950000.0,3.0,2007.0,2025.0
+Toyota,Yaris,Automatic,Petrol,2020,10750000.0,5.0,2007.0,2025.0
+Toyota,Yaris,Automatic,Petrol,2021,10666250.0,0.0,,
+Toyota,Yaris,Automatic,Petrol,2022,10582500.0,4.0,2007.0,2025.0
+Toyota,Yaris,Automatic,Petrol,2023,10800000.0,24.0,2007.0,2025.0
+Toyota,Yaris,Automatic,Petrol,2024,11370000.0,10.0,2007.0,2025.0
+Toyota,Yaris,Automatic,Petrol,2025,18150000.0,10.0,2007.0,2025.0
+Toyota,Yaris,Tiptronic,Hybrid,2025,20000000.0,3.0,2025.0,2025.0
+Toyota,Yaris,Tiptronic,Petrol,2023,10450000.0,1.0,2023.0,2023.0
